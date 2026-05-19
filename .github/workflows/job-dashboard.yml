@@ -1,0 +1,62 @@
+name: Job Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,9 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: job-dashboard
+  cancel-in-progress: false
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Collect jobs and build dashboard
+        working-directory: "1. 취업"
+        run: python job_dashboard.py
+
+      - name: Keep GitHub Pages simple
+        run: touch "1. 취업/output/.nojekyll"
+
+      - name: Commit collected data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "1. 취업/data/jobs.json" "1. 취업/data/job_history.json" "1. 취업/data/snapshots" "1. 취업/output/dashboard.html" "1. 취업/output/.nojekyll"
+          if git diff --cached --quiet; then
+            echo "No dashboard changes to commit."
+          else
+            git commit -m "Update job dashboard"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "1. 취업/output"
+
+      - name: Deploy dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
