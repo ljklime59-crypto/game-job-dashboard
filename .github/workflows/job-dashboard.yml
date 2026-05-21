@@ -3,7 +3,7 @@ name: Job Dashboard
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0,9 * * *"
+  - cron: "13 0,9 * * *"
 
 permissions:
   contents: write
