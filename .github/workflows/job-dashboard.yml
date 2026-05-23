@@ -3,7 +3,8 @@ name: Job Dashboard
 on:
   workflow_dispatch:
   schedule:
-  - cron: "13 0,9 * * *"
+    - cron: "17 9,12,18,21 * * *"
+      timezone: "Asia/Seoul"
 
 permissions:
   contents: write
