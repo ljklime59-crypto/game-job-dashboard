@@ -14,10 +14,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-06-21 11:52",
+    "fetched_at": "2026-06-21 14:31",
     "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-06-21 11:52",
-    "seen_count": 7,
+    "last_seen": "2026-06-21 14:31",
+    "seen_count": 8,
     "is_active": true,
     "is_new": false
   },
@@ -38,10 +38,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-06-21 11:52",
+    "fetched_at": "2026-06-21 14:31",
     "first_seen": "2026-05-19 22:55",
-    "last_seen": "2026-06-21 11:52",
-    "seen_count": 30,
+    "last_seen": "2026-06-21 14:31",
+    "seen_count": 31,
     "is_active": true,
     "is_new": false
   },
@@ -60,10 +60,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-06-21 11:52",
+    "fetched_at": "2026-06-21 14:31",
     "first_seen": "2026-06-18 12:34",
-    "last_seen": "2026-06-21 11:52",
-    "seen_count": 6,
+    "last_seen": "2026-06-21 14:31",
+    "seen_count": 7,
     "is_active": true,
     "is_new": false
   },
@@ -83,10 +83,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-06-21 11:52",
+    "fetched_at": "2026-06-21 14:31",
     "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-06-21 11:52",
-    "seen_count": 22,
+    "last_seen": "2026-06-21 14:31",
+    "seen_count": 23,
     "is_active": true,
     "is_new": false
   },
@@ -107,10 +107,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-06-21 11:52",
+    "fetched_at": "2026-06-21 14:31",
     "first_seen": "2026-06-19 13:01",
-    "last_seen": "2026-06-21 11:52",
-    "seen_count": 5,
+    "last_seen": "2026-06-21 14:31",
+    "seen_count": 6,
     "is_active": true,
     "is_new": false
   },
@@ -128,10 +128,10 @@
       "구로"
     ],
     "priority_company": true,
-    "fetched_at": "2026-06-21 11:52",
+    "fetched_at": "2026-06-21 14:31",
     "first_seen": "2026-06-13 17:03",
-    "last_seen": "2026-06-21 11:52",
-    "seen_count": 6,
+    "last_seen": "2026-06-21 14:31",
+    "seen_count": 7,
     "is_active": true,
     "is_new": false
   },
