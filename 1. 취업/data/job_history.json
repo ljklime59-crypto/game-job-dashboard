@@ -1,27 +1,5 @@
 [
   {
-    "id": "282533",
-    "company": "라이징윙스",
-    "title": "기획자를 모십니다. (경력 3년이상)",
-    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임, 콘솔게임 정규직",
-    "deadline": "~07/31 8시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282533",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
-    "first_seen": "2026-07-10 12:07",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
     "id": "282000",
     "company": "㈜에피드게임즈",
     "title": "[트릭컬 파티마] 시스템 및 콘텐츠 기획자 추가 모집",
@@ -38,10 +16,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 2,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -61,10 +39,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 2,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -83,10 +61,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-05-24 09:11",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 16,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 17,
     "is_active": true,
     "is_new": false
   },
@@ -105,10 +83,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 2,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -129,10 +107,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-05-24 09:11",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 16,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 17,
     "is_active": true,
     "is_new": false
   },
@@ -152,10 +130,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-05-24 09:11",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 16,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 17,
     "is_active": true,
     "is_new": false
   },
@@ -175,10 +153,32 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-06-26 11:49",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 17,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 18,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "282533",
+    "company": "라이징윙스",
+    "title": "기획자를 모십니다. (경력 3년이상)",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임, 콘솔게임 정규직",
+    "deadline": "~07/31 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282533",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-11 03:38",
+    "first_seen": "2026-07-10 12:07",
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -198,10 +198,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-10 12:07",
+    "fetched_at": "2026-07-11 03:38",
     "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-07-10 12:07",
-    "seen_count": 48,
+    "last_seen": "2026-07-11 03:38",
+    "seen_count": 49,
     "is_active": true,
     "is_new": false
   },
