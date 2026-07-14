@@ -15,34 +15,12 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-14 10:55",
+    "fetched_at": "2026-07-14 14:10",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-07-14 10:55",
-    "seen_count": 1,
+    "last_seen": "2026-07-14 14:10",
+    "seen_count": 2,
     "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "282657",
-    "company": "㈜기어세컨드",
-    "title": "[레츠고 레전드!] 기획자",
-    "info": "경력3년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 9시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282657",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-14 10:55",
-    "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-07-14 10:55",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "280612",
@@ -59,10 +37,32 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-14 10:55",
+    "fetched_at": "2026-07-14 14:10",
     "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-07-14 10:55",
-    "seen_count": 32,
+    "last_seen": "2026-07-14 14:10",
+    "seen_count": 33,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "282657",
+    "company": "㈜기어세컨드",
+    "title": "[레츠고 레전드!] 기획자",
+    "info": "경력3년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 12시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282657",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-14 14:10",
+    "first_seen": "2026-07-14 10:55",
+    "last_seen": "2026-07-14 14:10",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -82,10 +82,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-14 10:55",
+    "fetched_at": "2026-07-14 14:10",
     "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-07-14 10:55",
-    "seen_count": 56,
+    "last_seen": "2026-07-14 14:10",
+    "seen_count": 57,
     "is_active": true,
     "is_new": false
   },
