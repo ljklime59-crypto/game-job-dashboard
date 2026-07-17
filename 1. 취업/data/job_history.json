@@ -1,26 +1,5 @@
 [
   {
-    "id": "282865",
-    "company": "디나미스원㈜",
-    "title": "[아스트라에 오라티오] IP 비즈니스 매니저 모집",
-    "info": "신입 학력무관 서울 > 서초구 모바일게임 정규직",
-    "deadline": "채용시 2시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282865",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-17 10:57",
-    "first_seen": "2026-07-17 10:57",
-    "last_seen": "2026-07-17 10:57",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
     "id": "280612",
     "company": "에이블게임즈",
     "title": "[메이플키우기] 기획자 모집",
@@ -35,10 +14,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-17 10:57",
+    "fetched_at": "2026-07-17 14:00",
     "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-07-17 10:57",
-    "seen_count": 38,
+    "last_seen": "2026-07-17 14:00",
+    "seen_count": 39,
     "is_active": true,
     "is_new": false
   },
@@ -57,10 +36,31 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-17 10:57",
+    "fetched_at": "2026-07-17 14:00",
     "first_seen": "2026-07-16 11:10",
-    "last_seen": "2026-07-17 10:57",
-    "seen_count": 4,
+    "last_seen": "2026-07-17 14:00",
+    "seen_count": 5,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "282865",
+    "company": "디나미스원㈜",
+    "title": "[아스트라에 오라티오] IP 비즈니스 매니저 모집",
+    "info": "신입 학력무관 서울 > 서초구 모바일게임 정규직",
+    "deadline": "채용시 6시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282865",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-17 14:00",
+    "first_seen": "2026-07-17 10:57",
+    "last_seen": "2026-07-17 14:00",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
