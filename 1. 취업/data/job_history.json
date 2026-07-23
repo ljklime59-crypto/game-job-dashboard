@@ -15,10 +15,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
+    "fetched_at": "2026-07-23 03:41",
     "first_seen": "2026-07-20 11:56",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 6,
+    "last_seen": "2026-07-23 03:41",
+    "seen_count": 7,
     "is_active": true,
     "is_new": false
   },
@@ -37,34 +37,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
+    "fetched_at": "2026-07-23 03:41",
     "first_seen": "2026-05-19 22:55",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 12,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282995",
-    "company": "㈜크로노스튜디오",
-    "title": "[Chrono Odyssey] 시스템 기획자 모집",
-    "info": "경력5년↑ 학력무관 서울 > 강남구 콘솔게임, 멀티플랫폼게임 정규직",
-    "deadline": "채용시 8시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282995",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "시스템 기획",
-      "시스템",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
-    "first_seen": "2026-07-22 11:18",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 2,
+    "last_seen": "2026-07-23 03:41",
+    "seen_count": 13,
     "is_active": true,
     "is_new": false
   },
@@ -83,10 +59,34 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
+    "fetched_at": "2026-07-23 03:41",
     "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 45,
+    "last_seen": "2026-07-23 03:41",
+    "seen_count": 46,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "281527",
+    "company": "㈜기어세컨드",
+    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
+    "info": "경력2년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 06/16(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281527",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-23 03:41",
+    "first_seen": "2026-07-02 14:26",
+    "last_seen": "2026-07-23 03:41",
+    "seen_count": 6,
     "is_active": true,
     "is_new": false
   },
@@ -107,54 +107,31 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
+    "fetched_at": "2026-07-23 03:41",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 7,
+    "last_seen": "2026-07-23 03:41",
+    "seen_count": 8,
     "is_active": true,
     "is_new": false
   },
   {
-    "id": "280523",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
-    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 05/22(금) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
-    "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 65,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282988",
-    "company": "파이드픽셀즈",
-    "title": "[파이드픽셀즈] FX 디자이너 채용",
-    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 8시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282988",
+    "id": "282865",
+    "company": "디나미스원㈜",
+    "title": "[아스트라에 오라티오] IP 비즈니스 매니저 모집",
+    "info": "신입 학력무관 서울 > 서초구 모바일게임 정규직",
+    "deadline": "채용시 5일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282865",
     "source": "게임잡 검색 - 기획",
     "score": 45,
     "matched_keywords": [
       "서울",
-      "강남"
+      "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-07-22 14:19",
-    "first_seen": "2026-07-22 11:18",
-    "last_seen": "2026-07-22 14:19",
-    "seen_count": 2,
+    "fetched_at": "2026-07-23 03:41",
+    "first_seen": "2026-07-17 10:57",
+    "last_seen": "2026-07-23 03:41",
+    "seen_count": 5,
     "is_active": true,
     "is_new": false
   },
@@ -1394,6 +1371,30 @@
     "is_new": false
   },
   {
+    "id": "282995",
+    "company": "㈜크로노스튜디오",
+    "title": "[Chrono Odyssey] 시스템 기획자 모집",
+    "info": "경력5년↑ 학력무관 서울 > 강남구 콘솔게임, 멀티플랫폼게임 정규직",
+    "deadline": "채용시 8시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282995",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "시스템 기획",
+      "시스템",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-22 14:19",
+    "first_seen": "2026-07-22 11:18",
+    "last_seen": "2026-07-22 14:19",
+    "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "282638",
     "company": "㈜해긴",
     "title": "[몬스터 수집형] 설정/스토리/콘텐츠 기획자 모집",
@@ -1596,30 +1597,6 @@
     "first_seen": "2026-06-06 09:14",
     "last_seen": "2026-06-06 09:14",
     "seen_count": 1,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "281527",
-    "company": "㈜기어세컨드",
-    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
-    "info": "경력2년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 06/16(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281527",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-22 03:41",
-    "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-07-22 03:41",
-    "seen_count": 5,
     "is_active": false,
     "is_new": false
   },
@@ -3525,6 +3502,29 @@
     "is_new": false
   },
   {
+    "id": "280523",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
+    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 05/22(금) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-22 14:19",
+    "first_seen": "2026-05-22 11:24",
+    "last_seen": "2026-07-22 14:19",
+    "seen_count": 65,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "281483",
     "company": "㈜위메이드커넥트",
     "title": "[위메이드커넥트] 컨셉 기획자 모집",
@@ -5283,27 +5283,6 @@
     "is_new": false
   },
   {
-    "id": "282865",
-    "company": "디나미스원㈜",
-    "title": "[아스트라에 오라티오] IP 비즈니스 매니저 모집",
-    "info": "신입 학력무관 서울 > 서초구 모바일게임 정규직",
-    "deadline": "채용시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282865",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-07-18 10:39",
-    "first_seen": "2026-07-17 10:57",
-    "last_seen": "2026-07-18 10:39",
-    "seen_count": 4,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "282253",
     "company": "디나미스원㈜",
     "title": "[아스트라에 오라티오] UI 디자이너 모집",
@@ -5721,6 +5700,27 @@
     "first_seen": "2026-05-26 19:37",
     "last_seen": "2026-05-26 19:37",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "282988",
+    "company": "파이드픽셀즈",
+    "title": "[파이드픽셀즈] FX 디자이너 채용",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 8시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282988",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-07-22 14:19",
+    "first_seen": "2026-07-22 11:18",
+    "last_seen": "2026-07-22 14:19",
+    "seen_count": 2,
     "is_active": false,
     "is_new": false
   }
