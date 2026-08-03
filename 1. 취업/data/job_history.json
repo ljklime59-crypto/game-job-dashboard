@@ -1,47 +1,66 @@
 [
   {
-    "id": "283023",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집",
-    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 07/23(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
+    "id": "283400",
+    "company": "넥슨",
+    "title": "[메이플스토리 PC] 데브옵스 엔지니어",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
+    "deadline": "상시 3시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283400",
     "source": "게임잡 검색 - 기획",
-    "score": 80,
+    "score": 90,
     "matched_keywords": [
-      "기획자",
-      "몬스터 기획",
-      "서울",
-      "강남",
-      "서초"
+      "스토리",
+      "경기",
+      "성남"
     ],
-    "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
-    "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 17,
+    "priority_company": true,
+    "fetched_at": "2026-08-03 03:51",
+    "first_seen": "2026-08-03 03:51",
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 1,
     "is_active": true,
-    "is_new": false
+    "is_new": true
   },
   {
-    "id": "283389",
-    "company": "㈜에피드게임즈",
-    "title": "[트릭컬 리바이브] 설정 기획자 추가 모집",
-    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 2일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283389",
+    "id": "283378",
+    "company": "네오플",
+    "title": "2026 네오플 아카데미",
+    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임",
+    "deadline": "~08/16 2시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283378",
     "source": "게임잡 검색 - 기획",
-    "score": 80,
+    "score": 70,
     "matched_keywords": [
-      "기획자",
       "서울",
       "강남"
     ],
-    "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
-    "first_seen": "2026-07-31 14:32",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 6,
+    "priority_company": true,
+    "fetched_at": "2026-08-03 03:51",
+    "first_seen": "2026-08-03 03:51",
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "283364",
+    "company": "넥슨",
+    "title": "[메이플스토리 PC] 웹 애플리케이션 엔지니어",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
+    "deadline": "상시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283364",
+    "source": "게임잡 검색 - 기획",
+    "score": 90,
+    "matched_keywords": [
+      "스토리",
+      "경기",
+      "성남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-08-03 03:51",
+    "first_seen": "2026-07-31 03:47",
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -60,10 +79,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-05-19 22:55",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 24,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 25,
     "is_active": true,
     "is_new": false
   },
@@ -84,10 +103,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 7,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 8,
     "is_active": true,
     "is_new": false
   },
@@ -108,10 +127,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 17,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 18,
     "is_active": true,
     "is_new": false
   },
@@ -130,33 +149,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 16,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "280523",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
-    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 05/22(금) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
-    "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 82,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 17,
     "is_active": true,
     "is_new": false
   },
@@ -174,10 +170,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 7,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 8,
     "is_active": true,
     "is_new": false
   },
@@ -195,10 +191,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 7,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 8,
     "is_active": true,
     "is_new": false
   },
@@ -216,10 +212,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-30 11:19",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 8,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 9,
     "is_active": true,
     "is_new": false
   },
@@ -237,10 +233,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-02 13:51",
+    "fetched_at": "2026-08-03 03:51",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-02 13:51",
-    "seen_count": 7,
+    "last_seen": "2026-08-03 03:51",
+    "seen_count": 8,
     "is_active": true,
     "is_new": false
   },
@@ -769,28 +765,6 @@
     "is_new": false
   },
   {
-    "id": "283364",
-    "company": "넥슨",
-    "title": "[메이플스토리] 웹 애플리케이션 엔지니어",
-    "info": "경력3년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
-    "deadline": "상시 9분 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283364",
-    "source": "게임잡 검색 - 기획",
-    "score": 90,
-    "matched_keywords": [
-      "스토리",
-      "경기",
-      "성남"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-07-31 03:47",
-    "first_seen": "2026-07-31 03:47",
-    "last_seen": "2026-07-31 03:47",
-    "seen_count": 1,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "280400",
     "company": "넥슨",
     "title": "[슈터본부] 새턴스튜디오 오버워치 웹 기획자",
@@ -1185,6 +1159,30 @@
     "is_new": false
   },
   {
+    "id": "283023",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집",
+    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 07/23(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "몬스터 기획",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-02 13:51",
+    "first_seen": "2026-07-23 14:28",
+    "last_seen": "2026-08-02 13:51",
+    "seen_count": 17,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "280240",
     "company": "㈜스튜디오비사이드",
     "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
@@ -1273,6 +1271,28 @@
     "first_seen": "2026-06-30 14:41",
     "last_seen": "2026-06-30 14:41",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "283389",
+    "company": "㈜에피드게임즈",
+    "title": "[트릭컬 리바이브] 설정 기획자 추가 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 2일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283389",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-02 13:51",
+    "first_seen": "2026-07-31 14:32",
+    "last_seen": "2026-08-02 13:51",
+    "seen_count": 6,
     "is_active": false,
     "is_new": false
   },
@@ -4150,6 +4170,29 @@
     "first_seen": "2026-07-02 14:26",
     "last_seen": "2026-07-02 14:26",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "280523",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
+    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 05/22(금) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-02 13:51",
+    "first_seen": "2026-05-22 11:24",
+    "last_seen": "2026-08-02 13:51",
+    "seen_count": 82,
     "is_active": false,
     "is_new": false
   },
