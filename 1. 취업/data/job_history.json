@@ -16,32 +16,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
+    "fetched_at": "2026-08-11 10:08",
     "first_seen": "2026-07-06 12:57",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 2,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283537",
-    "company": "㈜기어세컨드",
-    "title": "[슬레이어 키우기] 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 5일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
-    "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 5,
+    "last_seen": "2026-08-11 10:08",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -61,10 +39,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
+    "fetched_at": "2026-08-11 10:08",
     "first_seen": "2026-07-06 12:57",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 2,
+    "last_seen": "2026-08-11 10:08",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -85,10 +63,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
+    "fetched_at": "2026-08-11 10:08",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 25,
+    "last_seen": "2026-08-11 10:08",
+    "seen_count": 26,
     "is_active": true,
     "is_new": false
   },
@@ -109,57 +87,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
+    "fetched_at": "2026-08-11 10:08",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 12,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282637",
-    "company": "㈜해긴",
-    "title": "[몬스터 수집형] 시스템/밸런스/BM 기획자 모집",
-    "info": "경력7년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
-    "deadline": "채용시 07/13(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282637",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "기획자",
-      "시스템",
-      "밸런스",
-      "서울",
-      "구로"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
-    "first_seen": "2026-07-13 12:16",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 8,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282635",
-    "company": "㈜해긴",
-    "title": "[몬스터 수집형] 레벨 기획자 모집",
-    "info": "경력4년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
-    "deadline": "채용시 07/13(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282635",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "기획자",
-      "레벨 기획",
-      "서울",
-      "구로"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
-    "first_seen": "2026-07-13 12:16",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 8,
+    "last_seen": "2026-08-11 10:08",
+    "seen_count": 13,
     "is_active": true,
     "is_new": false
   },
@@ -178,10 +109,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-11 04:37",
+    "fetched_at": "2026-08-11 10:08",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-08-11 04:37",
-    "seen_count": 21,
+    "last_seen": "2026-08-11 10:08",
+    "seen_count": 22,
     "is_active": true,
     "is_new": false
   },
@@ -1146,6 +1077,28 @@
     "first_seen": "2026-07-15 11:01",
     "last_seen": "2026-07-15 14:06",
     "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "283537",
+    "company": "㈜기어세컨드",
+    "title": "[슬레이어 키우기] 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 5일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-11 04:37",
+    "first_seen": "2026-08-05 11:27",
+    "last_seen": "2026-08-11 04:37",
+    "seen_count": 5,
     "is_active": false,
     "is_new": false
   },
@@ -2398,6 +2351,30 @@
     "first_seen": "2026-07-22 11:18",
     "last_seen": "2026-08-04 03:33",
     "seen_count": 3,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "282637",
+    "company": "㈜해긴",
+    "title": "[몬스터 수집형] 시스템/밸런스/BM 기획자 모집",
+    "info": "경력7년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
+    "deadline": "채용시 07/13(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282637",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "시스템",
+      "밸런스",
+      "서울",
+      "구로"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-11 04:37",
+    "first_seen": "2026-07-13 12:16",
+    "last_seen": "2026-08-11 04:37",
+    "seen_count": 8,
     "is_active": false,
     "is_new": false
   },
@@ -3781,6 +3758,29 @@
     "first_seen": "2026-06-18 12:34",
     "last_seen": "2026-08-04 03:33",
     "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "282635",
+    "company": "㈜해긴",
+    "title": "[몬스터 수집형] 레벨 기획자 모집",
+    "info": "경력4년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
+    "deadline": "채용시 07/13(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282635",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "기획자",
+      "레벨 기획",
+      "서울",
+      "구로"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-11 04:37",
+    "first_seen": "2026-07-13 12:16",
+    "last_seen": "2026-08-11 04:37",
+    "seen_count": 8,
     "is_active": false,
     "is_new": false
   },
