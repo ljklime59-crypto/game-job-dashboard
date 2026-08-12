@@ -1,5 +1,29 @@
 [
   {
+    "id": "283023",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집 [Project NUT]",
+    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 07/23(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "몬스터 기획",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-12 13:42",
+    "first_seen": "2026-07-23 14:28",
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 36,
+    "is_active": true,
+    "is_new": false
+  },
+  {
     "id": "282896",
     "company": "에이블게임즈",
     "title": "[달토끼키우기] 전투 기획자 모집",
@@ -15,10 +39,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 10:18",
+    "fetched_at": "2026-08-12 13:42",
     "first_seen": "2026-07-20 11:56",
-    "last_seen": "2026-08-12 10:18",
-    "seen_count": 27,
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 28,
     "is_active": true,
     "is_new": false
   },
@@ -27,7 +51,7 @@
     "company": "㈜에피드게임즈",
     "title": "[트릭컬 리바이브] 시스템 및 콘텐츠 기획자 추가 모집",
     "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 7시간 전 등록",
+    "deadline": "채용시 11시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283740",
     "source": "게임잡 검색 - 기획",
     "score": 75,
@@ -39,10 +63,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 10:18",
+    "fetched_at": "2026-08-12 13:42",
     "first_seen": "2026-08-12 04:58",
-    "last_seen": "2026-08-12 10:18",
-    "seen_count": 2,
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -61,34 +85,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 10:18",
+    "fetched_at": "2026-08-12 13:42",
     "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-08-12 10:18",
-    "seen_count": 68,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "281527",
-    "company": "㈜기어세컨드",
-    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
-    "info": "경력2년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 06/16(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281527",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-12 10:18",
-    "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-12 10:18",
-    "seen_count": 30,
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 69,
     "is_active": true,
     "is_new": false
   },
@@ -97,7 +97,7 @@
     "company": "그라비티",
     "title": "[그라비티] RO1 시스템 엔지니어 채용",
     "info": "경력3년↑ 학력무관 서울 > 마포구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "~10/12 8시간 전 등록",
+    "deadline": "~10/12 12시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283745",
     "source": "게임잡 검색 - 기획",
     "score": 65,
@@ -106,10 +106,33 @@
       "서울"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 10:18",
+    "fetched_at": "2026-08-12 13:42",
     "first_seen": "2026-08-12 04:58",
-    "last_seen": "2026-08-12 10:18",
-    "seen_count": 2,
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 3,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "280523",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
+    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 05/22(금) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-12 13:42",
+    "first_seen": "2026-05-22 11:24",
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 101,
     "is_active": true,
     "is_new": false
   },
@@ -118,7 +141,7 @@
     "company": "㈜기어세컨드",
     "title": "[기어세컨드] 데이터 엔지니어 DE",
     "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 8시간 전 등록",
+    "deadline": "채용시 11시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283747",
     "source": "게임잡 검색 - 기획",
     "score": 45,
@@ -127,10 +150,32 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 10:18",
+    "fetched_at": "2026-08-12 13:42",
     "first_seen": "2026-08-12 02:41",
-    "last_seen": "2026-08-12 10:18",
-    "seen_count": 3,
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 4,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "283546",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 개발 QA 담당자 모집 [Project NUT]",
+    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 계약직",
+    "deadline": "채용시 7일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283546",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-12 13:42",
+    "first_seen": "2026-08-05 11:27",
+    "last_seen": "2026-08-12 13:42",
+    "seen_count": 16,
     "is_active": true,
     "is_new": false
   },
@@ -1167,30 +1212,6 @@
     "is_new": false
   },
   {
-    "id": "283023",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집 [Project NUT]",
-    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 07/23(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "기획자",
-      "몬스터 기획",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-11 02:24",
-    "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-11 02:24",
-    "seen_count": 35,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "280240",
     "company": "㈜스튜디오비사이드",
     "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
@@ -2144,6 +2165,30 @@
     "first_seen": "2026-06-06 09:14",
     "last_seen": "2026-06-06 09:14",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "281527",
+    "company": "㈜기어세컨드",
+    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
+    "info": "경력2년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 06/16(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281527",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-12 10:18",
+    "first_seen": "2026-07-02 14:26",
+    "last_seen": "2026-08-12 10:18",
+    "seen_count": 30,
     "is_active": false,
     "is_new": false
   },
@@ -4452,29 +4497,6 @@
     "is_new": false
   },
   {
-    "id": "280523",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
-    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 05/22(금) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-11 02:24",
-    "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-08-11 02:24",
-    "seen_count": 100,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "281483",
     "company": "㈜위메이드커넥트",
     "title": "[위메이드커넥트] 컨셉 기획자 모집",
@@ -5981,28 +6003,6 @@
     "first_seen": "2026-07-21 11:17",
     "last_seen": "2026-07-21 14:18",
     "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "283546",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 개발 QA 담당자 모집 [Project NUT]",
-    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 계약직",
-    "deadline": "채용시 5일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283546",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-10 13:40",
-    "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-08-10 13:40",
-    "seen_count": 15,
     "is_active": false,
     "is_new": false
   },
