@@ -1,21 +1,45 @@
 [
   {
-    "id": "283747",
-    "company": "㈜기어세컨드",
-    "title": "[기어세컨드] 데이터 엔지니어 DE",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 34분 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283747",
+    "id": "283740",
+    "company": "㈜에피드게임즈",
+    "title": "[트릭컬 리바이브] 시스템 및 콘텐츠 기획자 추가 모집",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 2시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283740",
     "source": "게임잡 검색 - 기획",
-    "score": 45,
+    "score": 75,
     "matched_keywords": [
+      "기획자",
+      "시스템",
+      "콘텐츠 기획",
       "서울",
-      "성동"
+      "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
-    "first_seen": "2026-08-12 02:41",
-    "last_seen": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
+    "first_seen": "2026-08-12 04:58",
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "283745",
+    "company": "그라비티",
+    "title": "[그라비티] RO1 시스템 엔지니어 채용",
+    "info": "경력3년↑ 학력무관 서울 > 마포구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "~10/12 3시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283745",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "시스템",
+      "서울"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-12 04:58",
+    "first_seen": "2026-08-12 04:58",
+    "last_seen": "2026-08-12 04:58",
     "seen_count": 1,
     "is_active": true,
     "is_new": true
@@ -25,7 +49,7 @@
     "company": "㈜기어세컨드",
     "title": "[슬레이어 키우기] 기획자",
     "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 6일 전 등록",
+    "deadline": "채용시 7일 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
     "source": "게임잡 검색 - 기획",
     "score": 80,
@@ -35,10 +59,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
     "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-08-12 02:41",
-    "seen_count": 6,
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 7,
     "is_active": true,
     "is_new": false
   },
@@ -59,10 +83,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-12 02:41",
-    "seen_count": 28,
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 29,
     "is_active": true,
     "is_new": false
   },
@@ -83,10 +107,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-12 02:41",
-    "seen_count": 15,
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 16,
     "is_active": true,
     "is_new": false
   },
@@ -107,10 +131,10 @@
       "구로"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
     "first_seen": "2026-07-13 12:16",
-    "last_seen": "2026-08-12 02:41",
-    "seen_count": 9,
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 10,
     "is_active": true,
     "is_new": false
   },
@@ -130,10 +154,10 @@
       "구로"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
     "first_seen": "2026-07-13 12:16",
-    "last_seen": "2026-08-12 02:41",
-    "seen_count": 9,
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 10,
     "is_active": true,
     "is_new": false
   },
@@ -152,10 +176,31 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-12 02:41",
+    "fetched_at": "2026-08-12 04:58",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-08-12 02:41",
-    "seen_count": 24,
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 25,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "283747",
+    "company": "㈜기어세컨드",
+    "title": "[기어세컨드] 데이터 엔지니어 DE",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 2시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283747",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-12 04:58",
+    "first_seen": "2026-08-12 02:41",
+    "last_seen": "2026-08-12 04:58",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
