@@ -1,5 +1,143 @@
 [
   {
+    "id": "283896",
+    "company": "넥슨",
+    "title": "[퍼블리싱라이브본부] 로컬라이제이션 게임사업 PM (계약직)",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
+    "deadline": "상시 1시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283896",
+    "source": "게임잡 검색 - 기획",
+    "score": 55,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-08-18 01:48",
+    "first_seen": "2026-08-18 01:48",
+    "last_seen": "2026-08-18 01:48",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "283666",
+    "company": "㈜이스트게임즈",
+    "title": "[신입] MMORPG 콘텐츠 및 시스템 기획자",
+    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 7일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283666",
+    "source": "게임잡 검색 - 기획",
+    "score": 90,
+    "matched_keywords": [
+      "기획자",
+      "시스템 기획",
+      "시스템",
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 01:48",
+    "first_seen": "2026-08-10 10:34",
+    "last_seen": "2026-08-18 01:48",
+    "seen_count": 5,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "283023",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집 [Project NUT]",
+    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 07/23(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "몬스터 기획",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 01:48",
+    "first_seen": "2026-07-23 14:28",
+    "last_seen": "2026-08-18 01:48",
+    "seen_count": 40,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "281806",
+    "company": "㈜스튜디오비사이드",
+    "title": "[프로젝트 A] 스토리 제작",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 06/23(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281806",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "스토리",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 01:48",
+    "first_seen": "2026-06-23 04:18",
+    "last_seen": "2026-08-18 01:48",
+    "seen_count": 37,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "283665",
+    "company": "㈜이스트게임즈",
+    "title": "[경력] MMORPG 콘텐츠 및 시스템 기획자",
+    "info": "경력1년↑ 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 7일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283665",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "시스템 기획",
+      "시스템",
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 01:48",
+    "first_seen": "2026-08-10 10:34",
+    "last_seen": "2026-08-18 01:48",
+    "seen_count": 5,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "280523",
+    "company": "㈜바운더리",
+    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
+    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 05/22(금) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 01:48",
+    "first_seen": "2026-05-22 11:24",
+    "last_seen": "2026-08-18 01:48",
+    "seen_count": 105,
+    "is_active": true,
+    "is_new": false
+  },
+  {
     "id": "283837",
     "company": "㈜넥슨게임즈",
     "title": "[AA 스튜디오] 시스템 기획자",
@@ -20,164 +158,7 @@
     "first_seen": "2026-08-14 02:42",
     "last_seen": "2026-08-17 13:03",
     "seen_count": 12,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283843",
-    "company": "㈜넥슨게임즈",
-    "title": "[AA 스튜디오] 콘텐츠 기획자",
-    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283843",
-    "source": "게임잡 검색 - 기획",
-    "score": 95,
-    "matched_keywords": [
-      "기획자",
-      "콘텐츠 기획",
-      "서울",
-      "강남"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-08-14 02:42",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 12,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "281806",
-    "company": "㈜스튜디오비사이드",
-    "title": "[프로젝트 A] 스토리 제작",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 06/23(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281806",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "스토리",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-06-23 04:18",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 36,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282637",
-    "company": "㈜해긴",
-    "title": "[몬스터 수집형] 시스템/밸런스/BM 기획자 모집",
-    "info": "경력7년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
-    "deadline": "채용시 07/13(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282637",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "기획자",
-      "시스템",
-      "밸런스",
-      "서울",
-      "구로"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-07-13 12:16",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 23,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283865",
-    "company": "㈜에이버튼",
-    "title": "[Project EA] 레벨 디자이너 (기획)",
-    "info": "경력5년↑ 학력무관 경기 > 성남시 콘솔게임, 멀티플랫폼게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283865",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "레벨 디자이너",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-08-14 10:14",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 11,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282635",
-    "company": "㈜해긴",
-    "title": "[몬스터 수집형] 레벨 기획자 모집",
-    "info": "경력4년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
-    "deadline": "채용시 07/13(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282635",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "기획자",
-      "레벨 기획",
-      "서울",
-      "구로"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-07-13 12:16",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 23,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283834",
-    "company": "라이온하트스튜디오",
-    "title": "[라이온하트 스튜디오] 시스템 엔지니어 모집",
-    "info": "경력6년↑ 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283834",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "시스템",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-08-14 10:14",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 11,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283835",
-    "company": "㈜넥슨게임즈",
-    "title": "[AA 스튜디오] 일러스트레이터 (중국 대응)",
-    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283835",
-    "source": "게임잡 검색 - 기획",
-    "score": 55,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-17 13:03",
-    "first_seen": "2026-08-14 02:42",
-    "last_seen": "2026-08-17 13:03",
-    "seen_count": 12,
-    "is_active": true,
+    "is_active": false,
     "is_new": false
   },
   {
@@ -548,6 +529,29 @@
     "is_new": false
   },
   {
+    "id": "283843",
+    "company": "㈜넥슨게임즈",
+    "title": "[AA 스튜디오] 콘텐츠 기획자",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283843",
+    "source": "게임잡 검색 - 기획",
+    "score": 95,
+    "matched_keywords": [
+      "기획자",
+      "콘텐츠 기획",
+      "서울",
+      "강남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-08-17 13:03",
+    "first_seen": "2026-08-14 02:42",
+    "last_seen": "2026-08-17 13:03",
+    "seen_count": 12,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "282748",
     "company": "네오플",
     "title": "[프로젝트DL] 레벨 기획자 (근무지 서울지사)",
@@ -751,30 +755,6 @@
     "first_seen": "2026-08-13 13:43",
     "last_seen": "2026-08-14 02:42",
     "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "283666",
-    "company": "㈜이스트게임즈",
-    "title": "[신입] MMORPG 콘텐츠 및 시스템 기획자",
-    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283666",
-    "source": "게임잡 검색 - 기획",
-    "score": 90,
-    "matched_keywords": [
-      "기획자",
-      "시스템 기획",
-      "시스템",
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-14 02:42",
-    "first_seen": "2026-08-10 10:34",
-    "last_seen": "2026-08-14 02:42",
-    "seen_count": 4,
     "is_active": false,
     "is_new": false
   },
@@ -1258,30 +1238,6 @@
     "first_seen": "2026-05-19 22:55",
     "last_seen": "2026-05-23 15:50",
     "seen_count": 9,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "283023",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집 [Project NUT]",
-    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 07/23(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "기획자",
-      "몬스터 기획",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-13 13:43",
-    "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-13 13:43",
-    "seen_count": 39,
     "is_active": false,
     "is_new": false
   },
@@ -1944,30 +1900,6 @@
     "is_new": false
   },
   {
-    "id": "283665",
-    "company": "㈜이스트게임즈",
-    "title": "[경력] MMORPG 콘텐츠 및 시스템 기획자",
-    "info": "경력1년↑ 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283665",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "시스템 기획",
-      "시스템",
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-14 02:42",
-    "first_seen": "2026-08-10 10:34",
-    "last_seen": "2026-08-14 02:42",
-    "seen_count": 4,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "283438",
     "company": "㈜컨트롤나인",
     "title": "[미래시] 시스템 기획자",
@@ -2561,6 +2493,30 @@
     "first_seen": "2026-07-22 11:18",
     "last_seen": "2026-08-04 03:33",
     "seen_count": 3,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "282637",
+    "company": "㈜해긴",
+    "title": "[몬스터 수집형] 시스템/밸런스/BM 기획자 모집",
+    "info": "경력7년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
+    "deadline": "채용시 07/13(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282637",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "시스템",
+      "밸런스",
+      "서울",
+      "구로"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-17 13:03",
+    "first_seen": "2026-07-13 12:16",
+    "last_seen": "2026-08-17 13:03",
+    "seen_count": 23,
     "is_active": false,
     "is_new": false
   },
@@ -3788,6 +3744,28 @@
     "is_new": false
   },
   {
+    "id": "283865",
+    "company": "㈜에이버튼",
+    "title": "[Project EA] 레벨 디자이너 (기획)",
+    "info": "경력5년↑ 학력무관 경기 > 성남시 콘솔게임, 멀티플랫폼게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283865",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "레벨 디자이너",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-17 13:03",
+    "first_seen": "2026-08-14 10:14",
+    "last_seen": "2026-08-17 13:03",
+    "seen_count": 11,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "282832",
     "company": "㈜에이버튼",
     "title": "[Project EA] 레벨 디자이너 (기획)",
@@ -3988,6 +3966,29 @@
     "first_seen": "2026-06-18 12:34",
     "last_seen": "2026-08-04 03:33",
     "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "282635",
+    "company": "㈜해긴",
+    "title": "[몬스터 수집형] 레벨 기획자 모집",
+    "info": "경력4년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
+    "deadline": "채용시 07/13(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282635",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "기획자",
+      "레벨 기획",
+      "서울",
+      "구로"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-17 13:03",
+    "first_seen": "2026-07-13 12:16",
+    "last_seen": "2026-08-17 13:03",
+    "seen_count": 23,
     "is_active": false,
     "is_new": false
   },
@@ -4231,6 +4232,28 @@
     "first_seen": "2026-07-03 11:40",
     "last_seen": "2026-07-05 14:06",
     "seen_count": 8,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "283834",
+    "company": "라이온하트스튜디오",
+    "title": "[라이온하트 스튜디오] 시스템 엔지니어 모집",
+    "info": "경력6년↑ 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283834",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "시스템",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-17 13:03",
+    "first_seen": "2026-08-14 10:14",
+    "last_seen": "2026-08-17 13:03",
+    "seen_count": 11,
     "is_active": false,
     "is_new": false
   },
@@ -4636,29 +4659,6 @@
     "is_new": false
   },
   {
-    "id": "280523",
-    "company": "㈜바운더리",
-    "title": "핵앤슬래시(PC/콘솔) 콘텐츠 시니어 기획자 채용 [Project NUT]",
-    "info": "경력5년↑ 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 05/22(금) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280523",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-13 13:43",
-    "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-08-13 13:43",
-    "seen_count": 104,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "281483",
     "company": "㈜위메이드커넥트",
     "title": "[위메이드커넥트] 컨셉 기획자 모집",
@@ -4831,6 +4831,27 @@
     "first_seen": "2026-05-19 22:55",
     "last_seen": "2026-07-06 12:57",
     "seen_count": 6,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "283835",
+    "company": "㈜넥슨게임즈",
+    "title": "[AA 스튜디오] 일러스트레이터 (중국 대응)",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283835",
+    "source": "게임잡 검색 - 기획",
+    "score": 55,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-08-17 13:03",
+    "first_seen": "2026-08-14 02:42",
+    "last_seen": "2026-08-17 13:03",
+    "seen_count": 12,
     "is_active": false,
     "is_new": false
   },
