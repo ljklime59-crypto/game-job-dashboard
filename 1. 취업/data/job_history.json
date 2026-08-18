@@ -1,10 +1,94 @@
 [
   {
+    "id": "283925",
+    "company": "넥슨",
+    "title": "[넥슨코리아] 마비노기 캐릭터 리거 (아르바이트)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임",
+    "deadline": "채용시 5시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283925",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-08-18 09:46",
+    "first_seen": "2026-08-18 09:46",
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "283947",
+    "company": "NX3GAMES",
+    "title": "[개발실] 전 부문 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "상시 1시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283947",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 09:46",
+    "first_seen": "2026-08-18 09:46",
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "283934",
+    "company": "㈜이스트게임즈",
+    "title": "[신입] DevOps 엔지니어",
+    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 4시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283934",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 09:46",
+    "first_seen": "2026-08-18 09:46",
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "283933",
+    "company": "㈜이스트게임즈",
+    "title": "[신입] 정보 보안 엔지니어",
+    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 4시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283933",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 09:46",
+    "first_seen": "2026-08-18 09:46",
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
     "id": "283910",
     "company": "넥슨",
     "title": "[메이플스토리 PC] 글로벌 사업 담당자 (계약직)",
     "info": "경력1년↑ 학력무관 경기 > 성남시 온라인PC게임 계약직",
-    "deadline": "상시 1시간 전 등록",
+    "deadline": "상시 7시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283910",
     "source": "게임잡 검색 - 기획",
     "score": 90,
@@ -14,12 +98,12 @@
       "성남"
     ],
     "priority_company": true,
-    "fetched_at": "2026-08-18 03:55",
+    "fetched_at": "2026-08-18 09:46",
     "first_seen": "2026-08-18 03:55",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 1,
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 2,
     "is_active": true,
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "283023",
@@ -38,32 +122,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-18 03:55",
+    "fetched_at": "2026-08-18 09:46",
     "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 41,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283537",
-    "company": "㈜기어세컨드",
-    "title": "[슬레이어 키우기] 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 08/05(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-18 03:55",
-    "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 8,
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 42,
     "is_active": true,
     "is_new": false
   },
@@ -84,56 +146,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-18 03:55",
+    "fetched_at": "2026-08-18 09:46",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 31,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "283194",
-    "company": "㈜기어세컨드",
-    "title": "[신규 프로젝트] 게임 기획자",
-    "info": "경력3년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 07/28(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283194",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-18 03:55",
-    "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 17,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "282657",
-    "company": "㈜기어세컨드",
-    "title": "[레츠고 레전드!] 기획자",
-    "info": "경력3년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 07/14(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282657",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-18 03:55",
-    "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 26,
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 32,
     "is_active": true,
     "is_new": false
   },
@@ -153,10 +169,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-18 03:55",
+    "fetched_at": "2026-08-18 09:46",
     "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-08-18 03:55",
-    "seen_count": 106,
+    "last_seen": "2026-08-18 09:46",
+    "seen_count": 107,
     "is_active": true,
     "is_new": false
   },
@@ -1743,6 +1759,28 @@
     "is_new": false
   },
   {
+    "id": "283537",
+    "company": "㈜기어세컨드",
+    "title": "[슬레이어 키우기] 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 08/05(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 03:55",
+    "first_seen": "2026-08-05 11:27",
+    "last_seen": "2026-08-18 03:55",
+    "seen_count": 8,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "279913",
     "company": "㈜기어세컨드",
     "title": "[슬레이어 키우기] 기획자",
@@ -2289,6 +2327,30 @@
     "first_seen": "2026-06-06 09:14",
     "last_seen": "2026-06-06 09:14",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "283194",
+    "company": "㈜기어세컨드",
+    "title": "[신규 프로젝트] 게임 기획자",
+    "info": "경력3년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 07/28(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283194",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 03:55",
+    "first_seen": "2026-07-30 03:24",
+    "last_seen": "2026-08-18 03:55",
+    "seen_count": 17,
     "is_active": false,
     "is_new": false
   },
@@ -4634,6 +4696,28 @@
     "first_seen": "2026-06-13 17:03",
     "last_seen": "2026-07-20 04:01",
     "seen_count": 9,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "282657",
+    "company": "㈜기어세컨드",
+    "title": "[레츠고 레전드!] 기획자",
+    "info": "경력3년↑ 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 07/14(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=282657",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-18 03:55",
+    "first_seen": "2026-07-14 10:55",
+    "last_seen": "2026-08-18 03:55",
+    "seen_count": 26,
     "is_active": false,
     "is_new": false
   },
