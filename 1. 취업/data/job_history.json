@@ -1,5 +1,51 @@
 [
   {
+    "id": "284037",
+    "company": "㈜위메이드",
+    "title": "[위메이드엑스알] 시스템 기획(체험형 인턴)",
+    "info": "신입 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 인턴직",
+    "deadline": "~09/03 2시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284037",
+    "source": "게임잡 검색 - 기획",
+    "score": 85,
+    "matched_keywords": [
+      "시스템 기획",
+      "시스템",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-20 13:08",
+    "first_seen": "2026-08-20 13:08",
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "281022",
+    "company": "데브캣",
+    "title": "[마비노기 모바일] 해외 라이브 서비스 기획자 모집",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 06/05(금) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=281022",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "기획자",
+      "서비스 기획",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-20 13:08",
+    "first_seen": "2026-08-20 13:08",
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
     "id": "282000",
     "company": "㈜에피드게임즈",
     "title": "[트릭컬 파티마] 시스템 및 콘텐츠 기획자 추가 모집",
@@ -16,10 +62,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 19,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 20,
     "is_active": true,
     "is_new": false
   },
@@ -40,10 +86,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 46,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 47,
     "is_active": true,
     "is_new": false
   },
@@ -63,10 +109,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 19,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 20,
     "is_active": true,
     "is_new": false
   },
@@ -85,10 +131,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-07-31 14:32",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 8,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 9,
     "is_active": true,
     "is_new": false
   },
@@ -107,32 +153,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 19,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "280612",
-    "company": "에이블게임즈",
-    "title": "[메이플키우기] 기획자 모집",
-    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 05/26(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280612",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
-    "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 72,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 20,
     "is_active": true,
     "is_new": false
   },
@@ -153,10 +177,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-08-12 04:58",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 5,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 6,
     "is_active": true,
     "is_new": false
   },
@@ -176,10 +200,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-06-26 11:49",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 35,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 36,
     "is_active": true,
     "is_new": false
   },
@@ -199,10 +223,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-05-22 11:24",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 111,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 112,
     "is_active": true,
     "is_new": false
   },
@@ -220,10 +244,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-20 09:48",
+    "fetched_at": "2026-08-20 13:08",
     "first_seen": "2026-08-13 13:43",
-    "last_seen": "2026-08-20 09:48",
-    "seen_count": 3,
+    "last_seen": "2026-08-20 13:08",
+    "seen_count": 4,
     "is_active": true,
     "is_new": false
   },
@@ -2053,6 +2077,28 @@
     "first_seen": "2026-05-26 19:37",
     "last_seen": "2026-05-31 10:00",
     "seen_count": 5,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "280612",
+    "company": "에이블게임즈",
+    "title": "[메이플키우기] 기획자 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 05/26(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280612",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-20 09:48",
+    "first_seen": "2026-05-26 19:37",
+    "last_seen": "2026-08-20 09:48",
+    "seen_count": 72,
     "is_active": false,
     "is_new": false
   },
