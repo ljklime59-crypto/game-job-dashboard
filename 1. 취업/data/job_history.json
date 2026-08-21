@@ -1,50 +1,5 @@
 [
   {
-    "id": "284062",
-    "company": "㈜슈퍼캣",
-    "title": "[슈퍼캣 / Project OQ] 레벨 디자인 기획자 모집 (경력)",
-    "info": "경력2년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 6시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284062",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "기획자",
-      "레벨 디자인",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-21 09:50",
-    "first_seen": "2026-08-21 09:50",
-    "last_seen": "2026-08-21 09:50",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "280678",
-    "company": "㈜슈퍼캣",
-    "title": "[슈퍼캣 / 도깨비의세계] 전투 디자인 기획자 모집 (경력)",
-    "info": "경력2년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 05/27(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280678",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-21 09:50",
-    "first_seen": "2026-08-21 09:50",
-    "last_seen": "2026-08-21 09:50",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
     "id": "282896",
     "company": "에이블게임즈",
     "title": "[달토끼키우기] 전투 기획자 모집",
@@ -60,10 +15,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-21 09:50",
+    "fetched_at": "2026-08-21 13:08",
     "first_seen": "2026-07-20 11:56",
-    "last_seen": "2026-08-21 09:50",
-    "seen_count": 30,
+    "last_seen": "2026-08-21 13:08",
+    "seen_count": 31,
     "is_active": true,
     "is_new": false
   },
@@ -82,10 +37,33 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-21 09:50",
+    "fetched_at": "2026-08-21 13:08",
     "first_seen": "2026-05-26 19:37",
-    "last_seen": "2026-08-21 09:50",
-    "seen_count": 73,
+    "last_seen": "2026-08-21 13:08",
+    "seen_count": 74,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284062",
+    "company": "㈜슈퍼캣",
+    "title": "[슈퍼캣 / Project OQ] 레벨 디자인 기획자 모집 (경력)",
+    "info": "경력2년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 10시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284062",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "레벨 디자인",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-21 13:08",
+    "first_seen": "2026-08-21 09:50",
+    "last_seen": "2026-08-21 13:08",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -105,10 +83,32 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-21 09:50",
+    "fetched_at": "2026-08-21 13:08",
     "first_seen": "2026-06-18 12:34",
-    "last_seen": "2026-08-21 09:50",
-    "seen_count": 3,
+    "last_seen": "2026-08-21 13:08",
+    "seen_count": 4,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "280678",
+    "company": "㈜슈퍼캣",
+    "title": "[슈퍼캣 / 도깨비의세계] 전투 디자인 기획자 모집 (경력)",
+    "info": "경력2년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 05/27(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=280678",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-21 13:08",
+    "first_seen": "2026-08-21 09:50",
+    "last_seen": "2026-08-21 13:08",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
