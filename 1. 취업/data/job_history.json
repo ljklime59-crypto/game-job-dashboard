@@ -1,5 +1,27 @@
 [
   {
+    "id": "284219",
+    "company": "(주)크래프톤",
+    "title": "[Loonshot Games] 콘텐츠 기획 & 외주 관리 (3년-5년)",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 1시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284219",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "콘텐츠 기획",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-25 13:08",
+    "first_seen": "2026-08-25 13:08",
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
     "id": "283023",
     "company": "㈜바운더리",
     "title": "핵앤슬래시(PC/콘솔) 몬스터 기획자 모집 [Project NUT]",
@@ -16,10 +38,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-25 09:49",
+    "fetched_at": "2026-08-25 13:08",
     "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-25 09:49",
-    "seen_count": 52,
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 53,
     "is_active": true,
     "is_new": false
   },
@@ -38,10 +60,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-25 09:49",
+    "fetched_at": "2026-08-25 13:08",
     "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-08-25 09:49",
-    "seen_count": 13,
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 14,
     "is_active": true,
     "is_new": false
   },
@@ -62,10 +84,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-25 09:49",
+    "fetched_at": "2026-08-25 13:08",
     "first_seen": "2026-08-18 13:05",
-    "last_seen": "2026-08-25 09:49",
-    "seen_count": 2,
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -86,10 +108,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-25 09:49",
+    "fetched_at": "2026-08-25 13:08",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-25 09:49",
-    "seen_count": 39,
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 40,
     "is_active": true,
     "is_new": false
   },
@@ -110,10 +132,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-25 09:49",
+    "fetched_at": "2026-08-25 13:08",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-25 09:49",
-    "seen_count": 22,
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 23,
     "is_active": true,
     "is_new": false
   },
@@ -132,10 +154,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-25 09:49",
+    "fetched_at": "2026-08-25 13:08",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-08-25 09:49",
-    "seen_count": 31,
+    "last_seen": "2026-08-25 13:08",
+    "seen_count": 32,
     "is_active": true,
     "is_new": false
   },
