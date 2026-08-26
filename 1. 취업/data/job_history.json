@@ -1,20 +1,21 @@
 [
   {
-    "id": "284245",
-    "company": "㈜펄어비스",
-    "title": "[펄어비스] [인턴십] QA Beginner 인턴십 모집",
-    "info": "신입 학력무관 경기 > 과천시 온라인PC게임, 모바일게임 인턴직",
-    "deadline": "~09/18 1시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284245",
+    "id": "284248",
+    "company": "넥슨",
+    "title": "[넥슨코리아] 프라시아 전기 UI 지원 (아르바이트)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임",
+    "deadline": "채용시 3시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284248",
     "source": "게임잡 검색 - 기획",
-    "score": 45,
+    "score": 70,
     "matched_keywords": [
-      "경기"
+      "경기",
+      "성남"
     ],
-    "priority_company": false,
-    "fetched_at": "2026-08-26 09:54",
-    "first_seen": "2026-08-26 09:54",
-    "last_seen": "2026-08-26 09:54",
+    "priority_company": true,
+    "fetched_at": "2026-08-26 13:13",
+    "first_seen": "2026-08-26 13:13",
+    "last_seen": "2026-08-26 13:13",
     "seen_count": 1,
     "is_active": true,
     "is_new": true
@@ -34,10 +35,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-26 09:54",
+    "fetched_at": "2026-08-26 13:13",
     "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-08-26 09:54",
-    "seen_count": 15,
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 16,
     "is_active": true,
     "is_new": false
   },
@@ -57,10 +58,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-26 09:54",
+    "fetched_at": "2026-08-26 13:13",
     "first_seen": "2026-06-29 13:14",
-    "last_seen": "2026-08-26 09:54",
-    "seen_count": 8,
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 9,
     "is_active": true,
     "is_new": false
   },
@@ -81,10 +82,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-26 09:54",
+    "fetched_at": "2026-08-26 13:13",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-08-26 09:54",
-    "seen_count": 41,
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 42,
     "is_active": true,
     "is_new": false
   },
@@ -105,10 +106,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-26 09:54",
+    "fetched_at": "2026-08-26 13:13",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-08-26 09:54",
-    "seen_count": 24,
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 25,
     "is_active": true,
     "is_new": false
   },
@@ -127,10 +128,54 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-08-26 09:54",
+    "fetched_at": "2026-08-26 13:13",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-08-26 09:54",
-    "seen_count": 33,
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 34,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "283023",
+    "company": "㈜바운더리",
+    "title": "[TARAE] 핵앤슬래시(PC/콘솔) 몬스터 기획자 모집",
+    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 07/23(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "기획자",
+      "몬스터 기획",
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-26 13:13",
+    "first_seen": "2026-07-23 14:28",
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 55,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284245",
+    "company": "㈜펄어비스",
+    "title": "[펄어비스] [인턴십] QA Beginner 인턴십 모집",
+    "info": "신입 학력무관 경기 > 과천시 온라인PC게임, 모바일게임 인턴직",
+    "deadline": "~09/18 4시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284245",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-08-26 13:13",
+    "first_seen": "2026-08-26 09:54",
+    "last_seen": "2026-08-26 13:13",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -6879,30 +6924,6 @@
     "first_seen": "2026-07-21 11:17",
     "last_seen": "2026-07-21 14:18",
     "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "283023",
-    "company": "㈜바운더리",
-    "title": "[TARAE] 핵앤슬래시(PC/콘솔) 몬스터 기획자 모집",
-    "info": "경력무관 학력무관 서울 > 서초구, 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 07/23(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283023",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "기획자",
-      "몬스터 기획",
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-08-26 04:00",
-    "first_seen": "2026-07-23 14:28",
-    "last_seen": "2026-08-26 04:00",
-    "seen_count": 54,
     "is_active": false,
     "is_new": false
   },
