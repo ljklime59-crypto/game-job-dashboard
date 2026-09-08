@@ -1,48 +1,68 @@
 [
   {
-    "id": "284720",
-    "company": "드림에이지(구 HYBE IM)",
-    "title": "[DRIMAGE-K스튜디오] 게임 시스템 기획(MMORPG)",
-    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임, 멀티플랫폼게임 정규직",
-    "deadline": "~11/08 2시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284720",
+    "id": "284750",
+    "company": "넥슨",
+    "title": "[메이플스토리M] 게임아트 리소스 컨버팅 담당자 (계약직)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임 계약직",
+    "deadline": "상시 3시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284750",
     "source": "게임잡 검색 - 기획",
-    "score": 70,
+    "score": 100,
     "matched_keywords": [
-      "시스템 기획",
-      "시스템",
-      "서울",
-      "강남"
+      "스토리",
+      "경기",
+      "성남"
     ],
-    "priority_company": false,
-    "fetched_at": "2026-09-08 04:30",
-    "first_seen": "2026-09-08 04:30",
-    "last_seen": "2026-09-08 04:30",
+    "priority_company": true,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-09-08 13:35",
+    "last_seen": "2026-09-08 13:35",
     "seen_count": 1,
     "is_active": true,
     "is_new": true
   },
   {
-    "id": "283537",
-    "company": "㈜기어세컨드",
-    "title": "[슬레이어 키우기] 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 08/05(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
+    "id": "284738",
+    "company": "주식회사 컴투스",
+    "title": "[컴투스] 서머너즈워 차기 RPG 밸런스 기획 (3년 이상)",
+    "info": "경력3년↑ 학력무관 서울 > 금천구 모바일게임 정규직",
+    "deadline": "상시 7시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284738",
     "source": "게임잡 검색 - 기획",
-    "score": 75,
+    "score": 65,
     "matched_keywords": [
-      "기획자",
+      "밸런스",
       "서울",
-      "성동"
+      "금천"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-08 04:30",
-    "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-09-08 04:30",
-    "seen_count": 20,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-09-08 13:35",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 1,
     "is_active": true,
-    "is_new": false
+    "is_new": true
+  },
+  {
+    "id": "284737",
+    "company": "주식회사 컴투스",
+    "title": "[컴투스] 투자전략 담당자 (주니어/2-5년)",
+    "info": "경력2년↑ 서울 > 금천구 모바일게임 정규직",
+    "deadline": "상시 7시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284737",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "금천"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-09-08 13:35",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
   },
   {
     "id": "281527",
@@ -61,10 +81,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-08 04:30",
+    "fetched_at": "2026-09-08 13:35",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-09-08 04:30",
-    "seen_count": 57,
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 58,
     "is_active": true,
     "is_new": false
   },
@@ -85,10 +105,139 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-08 04:30",
+    "fetched_at": "2026-09-08 13:35",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-09-08 04:30",
-    "seen_count": 30,
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 31,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284720",
+    "company": "드림에이지(구 HYBE IM)",
+    "title": "[DRIMAGE-K스튜디오] 게임 시스템 기획(MMORPG)",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임, 멀티플랫폼게임 정규직",
+    "deadline": "~11/08 11시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284720",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "시스템 기획",
+      "시스템",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-09-08 04:30",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 2,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284163",
+    "company": "㈜넥슨게임즈",
+    "title": "[AA 스튜디오] 전분야 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 08/24(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284163",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-08-24 10:01",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 3,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284161",
+    "company": "㈜넥슨게임즈",
+    "title": "[LoreVault][Woochi the Wayfarer] 전분야 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 08/24(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284161",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-08-24 10:01",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 3,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284164",
+    "company": "㈜넥슨게임즈",
+    "title": "[RX 스튜디오] 전분야 모집",
+    "info": "경력무관 학력무관 서울 > 서초구 모바일게임 정규직",
+    "deadline": "채용시 08/24(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284164",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "서울",
+      "서초"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-08-24 10:01",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 3,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "246514",
+    "company": "㈜넥슨게임즈",
+    "title": "[넥슨게임즈] 기획, 프로그래밍, 아트 전분야, PM 모집",
+    "info": "경력무관 학력무관 서울 > 강남구, 서초구 모바일게임 정규직",
+    "deadline": "채용시 06/20(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=246514",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-08-03 12:34",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 7,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "242612",
+    "company": "㈜넥슨게임즈",
+    "title": "[던전앤파이터 아라드] 전분야 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 04/02(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=242612",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-09-08 13:35",
+    "first_seen": "2026-08-26 04:00",
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -107,10 +256,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-08 04:30",
+    "fetched_at": "2026-09-08 13:35",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-09-08 04:30",
-    "seen_count": 45,
+    "last_seen": "2026-09-08 13:35",
+    "seen_count": 46,
     "is_active": true,
     "is_new": false
   },
@@ -1880,6 +2029,28 @@
     "is_new": false
   },
   {
+    "id": "283537",
+    "company": "㈜기어세컨드",
+    "title": "[슬레이어 키우기] 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 08/05(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-08 04:30",
+    "first_seen": "2026-08-05 11:27",
+    "last_seen": "2026-09-08 04:30",
+    "seen_count": 20,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "279913",
     "company": "㈜기어세컨드",
     "title": "[슬레이어 키우기] 기획자",
@@ -2634,27 +2805,6 @@
     "is_new": false
   },
   {
-    "id": "284163",
-    "company": "㈜넥슨게임즈",
-    "title": "[AA 스튜디오] 전분야 모집",
-    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 3시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284163",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-24 13:10",
-    "first_seen": "2026-08-24 10:01",
-    "last_seen": "2026-08-24 13:10",
-    "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "281429",
     "company": "㈜넥슨게임즈",
     "title": "[IO본부] IP라이선스 담당자 (계약직)",
@@ -2714,48 +2864,6 @@
     "first_seen": "2026-07-27 12:35",
     "last_seen": "2026-07-27 12:35",
     "seen_count": 1,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "284161",
-    "company": "㈜넥슨게임즈",
-    "title": "[LoreVault][Woochi the Wayfarer] 전분야 모집",
-    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 3시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284161",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-24 13:10",
-    "first_seen": "2026-08-24 10:01",
-    "last_seen": "2026-08-24 13:10",
-    "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "284164",
-    "company": "㈜넥슨게임즈",
-    "title": "[RX 스튜디오] 전분야 모집",
-    "info": "경력무관 학력무관 서울 > 서초구 모바일게임 정규직",
-    "deadline": "채용시 3시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284164",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "서울",
-      "서초"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-24 13:10",
-    "first_seen": "2026-08-24 10:01",
-    "last_seen": "2026-08-24 13:10",
-    "seen_count": 2,
     "is_active": false,
     "is_new": false
   },
@@ -4408,28 +4516,6 @@
     "is_new": false
   },
   {
-    "id": "246514",
-    "company": "㈜넥슨게임즈",
-    "title": "[넥슨게임즈] 기획, 프로그래밍, 아트 전분야, PM 모집",
-    "info": "경력무관 학력무관 서울 > 강남구, 서초구 모바일게임 정규직",
-    "deadline": "채용시 06/20(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=246514",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-26 04:00",
-    "first_seen": "2026-08-03 12:34",
-    "last_seen": "2026-08-26 04:00",
-    "seen_count": 6,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "243148",
     "company": "㈜넥슨게임즈",
     "title": "[넥슨게임즈] 영상/연출, Fun QA, 사운드, 사업실 모집",
@@ -4447,27 +4533,6 @@
     "fetched_at": "2026-08-03 12:34",
     "first_seen": "2026-08-03 12:34",
     "last_seen": "2026-08-03 12:34",
-    "seen_count": 1,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "242612",
-    "company": "㈜넥슨게임즈",
-    "title": "[던전앤파이터 아라드] 전분야 모집",
-    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 04/02(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=242612",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-08-26 04:00",
-    "first_seen": "2026-08-26 04:00",
-    "last_seen": "2026-08-26 04:00",
     "seen_count": 1,
     "is_active": false,
     "is_new": false
