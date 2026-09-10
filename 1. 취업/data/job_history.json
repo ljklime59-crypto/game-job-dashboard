@@ -1,35 +1,11 @@
 [
   {
-    "id": "284790",
-    "company": "㈜슈퍼캣",
-    "title": "[슈퍼캣 / 퍼즐팀] 밸런스 및 라이브 기획자 모집 (경력)",
-    "info": "경력1년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 4시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284790",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "밸런스",
-      "라이브 기획",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-09 13:41",
-    "first_seen": "2026-09-09 13:41",
-    "last_seen": "2026-09-09 13:41",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284754",
-    "company": "㈜위메이드",
-    "title": "게임 QA(계약직)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
-    "deadline": "~09/22 4시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284754",
+    "id": "284806",
+    "company": "㈜컨트롤나인",
+    "title": "[미래시] 3D 리거 (계약직/3개월)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 멀티플랫폼게임 계약직",
+    "deadline": "~09/30 2시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284806",
     "source": "게임잡 검색 - 기획",
     "score": 45,
     "matched_keywords": [
@@ -37,32 +13,74 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-09 13:41",
-    "first_seen": "2026-09-09 13:41",
-    "last_seen": "2026-09-09 13:41",
+    "fetched_at": "2026-09-10 04:37",
+    "first_seen": "2026-09-10 04:37",
+    "last_seen": "2026-09-10 04:37",
     "seen_count": 1,
     "is_active": true,
     "is_new": true
   },
   {
-    "id": "283537",
-    "company": "㈜기어세컨드",
-    "title": "[슬레이어 키우기] 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 08/05(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
+    "id": "284807",
+    "company": "㈜펄어비스",
+    "title": "[펄어비스] [신입/경력] 검은사막 PC 러시아 운영 담당자 모집",
+    "info": "경력무관 학력무관 경기 > 과천시 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 1시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284807",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-10 04:37",
+    "first_seen": "2026-09-10 04:37",
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "284168",
+    "company": "러쉬에잇㈜",
+    "title": "[MapleOrigin/러쉬에잇] 클래식 메이플스토리 직군별 채용 (신입/경력)",
+    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 08/24(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284168",
     "source": "게임잡 검색 - 기획",
     "score": 75,
     "matched_keywords": [
-      "기획자",
+      "스토리",
       "서울",
-      "성동"
+      "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-09 13:41",
-    "first_seen": "2026-08-05 11:27",
-    "last_seen": "2026-09-09 13:41",
-    "seen_count": 21,
+    "fetched_at": "2026-09-10 04:37",
+    "first_seen": "2026-08-31 17:02",
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 10,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284166",
+    "company": "러쉬에잇㈜",
+    "title": "[아르테일/러쉬에잇] 클래식 메이플스토리 직군별 채용 (신입/경력)",
+    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 08/24(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284166",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "스토리",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-10 04:37",
+    "first_seen": "2026-09-03 04:19",
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 7,
     "is_active": true,
     "is_new": false
   },
@@ -83,10 +101,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-09 13:41",
+    "fetched_at": "2026-09-10 04:37",
     "first_seen": "2026-07-02 14:26",
-    "last_seen": "2026-09-09 13:41",
-    "seen_count": 59,
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 60,
     "is_active": true,
     "is_new": false
   },
@@ -107,10 +125,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-09 13:41",
+    "fetched_at": "2026-09-10 04:37",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-09-09 13:41",
-    "seen_count": 32,
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 33,
     "is_active": true,
     "is_new": false
   },
@@ -129,10 +147,32 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-09 13:41",
+    "fetched_at": "2026-09-10 04:37",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-09-09 13:41",
-    "seen_count": 47,
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 48,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284198",
+    "company": "러쉬에잇㈜",
+    "title": "[QA] 클래식 메이플스토리 QA 담당자 (계약직/경력 1년+)",
+    "info": "경력1년↑ 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직, 계약직",
+    "deadline": "채용시 08/25(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284198",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "스토리",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-10 04:37",
+    "first_seen": "2026-09-03 04:19",
+    "last_seen": "2026-09-10 04:37",
+    "seen_count": 9,
     "is_active": true,
     "is_new": false
   },
@@ -1924,6 +1964,28 @@
     "is_new": false
   },
   {
+    "id": "283537",
+    "company": "㈜기어세컨드",
+    "title": "[슬레이어 키우기] 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 08/05(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=283537",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-09 13:41",
+    "first_seen": "2026-08-05 11:27",
+    "last_seen": "2026-09-09 13:41",
+    "seen_count": 21,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "279913",
     "company": "㈜기어세컨드",
     "title": "[슬레이어 키우기] 기획자",
@@ -1988,6 +2050,30 @@
     "first_seen": "2026-07-29 11:32",
     "last_seen": "2026-08-10 13:40",
     "seen_count": 5,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "284790",
+    "company": "㈜슈퍼캣",
+    "title": "[슈퍼캣 / 퍼즐팀] 밸런스 및 라이브 기획자 모집 (경력)",
+    "info": "경력1년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 4시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284790",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "밸런스",
+      "라이브 기획",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-09 13:41",
+    "first_seen": "2026-09-09 13:41",
+    "last_seen": "2026-09-09 13:41",
+    "seen_count": 1,
     "is_active": false,
     "is_new": false
   },
@@ -2239,50 +2325,6 @@
     "first_seen": "2026-08-27 09:42",
     "last_seen": "2026-08-27 22:13",
     "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "284168",
-    "company": "러쉬에잇㈜",
-    "title": "[MapleOrigin/러쉬에잇] 클래식 메이플스토리 직군별 채용 (신입/경력)",
-    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 08/24(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284168",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "스토리",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-09 04:36",
-    "first_seen": "2026-08-31 17:02",
-    "last_seen": "2026-09-09 04:36",
-    "seen_count": 9,
-    "is_active": false,
-    "is_new": false
-  },
-  {
-    "id": "284166",
-    "company": "러쉬에잇㈜",
-    "title": "[아르테일/러쉬에잇] 클래식 메이플스토리 직군별 채용 (신입/경력)",
-    "info": "경력무관 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 08/24(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284166",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "스토리",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-06 12:52",
-    "first_seen": "2026-09-03 04:19",
-    "last_seen": "2026-09-06 12:52",
-    "seen_count": 6,
     "is_active": false,
     "is_new": false
   },
@@ -6079,28 +6121,6 @@
     "is_new": false
   },
   {
-    "id": "284198",
-    "company": "러쉬에잇㈜",
-    "title": "[QA] 클래식 메이플스토리 QA 담당자 (계약직/경력 1년+)",
-    "info": "경력1년↑ 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직, 계약직",
-    "deadline": "채용시 08/25(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284198",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "스토리",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-09 04:36",
-    "first_seen": "2026-09-03 04:19",
-    "last_seen": "2026-09-09 04:36",
-    "seen_count": 8,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "283835",
     "company": "㈜넥슨게임즈",
     "title": "[AA 스튜디오] 일러스트레이터 (중국 대응)",
@@ -8449,6 +8469,27 @@
     "first_seen": "2026-06-01 19:31",
     "last_seen": "2026-06-02 13:01",
     "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "284754",
+    "company": "㈜위메이드",
+    "title": "게임 QA(계약직)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
+    "deadline": "~09/22 4시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284754",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-09 13:41",
+    "first_seen": "2026-09-09 13:41",
+    "last_seen": "2026-09-09 13:41",
+    "seen_count": 1,
     "is_active": false,
     "is_new": false
   },
