@@ -1,132 +1,5 @@
 [
   {
-    "id": "284854",
-    "company": "넷마블네오",
-    "title": "[넷마블네오] 개발 3본부 PM 담당 모집",
-    "info": "경력3년↑ 학력무관 서울 > 구로구 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 18시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284854",
-    "source": "게임잡 검색 - 기획",
-    "score": 55,
-    "matched_keywords": [
-      "서울",
-      "구로"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-09-12 04:30",
-    "first_seen": "2026-09-12 04:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284840",
-    "company": "㈜네오위즈",
-    "title": "[ASTRA9 Studio] QA 담당자 (인턴)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 인턴직",
-    "deadline": "채용시 23시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284840",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
-    "first_seen": "2026-09-12 04:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284859",
-    "company": "㈜네오위즈",
-    "title": "서브컬처 게임 방송 콘텐츠 제작 송출 PD",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 정규직",
-    "deadline": "채용시 2시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284859",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
-    "first_seen": "2026-09-12 04:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284839",
-    "company": "㈜네오위즈",
-    "title": "서브컬처 게임 사업관리 담당자 (계약직)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 계약직",
-    "deadline": "채용시 23시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284839",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
-    "first_seen": "2026-09-12 04:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284835",
-    "company": "㈜베이글코드",
-    "title": "[Strategy&Finance] 전략팀 Strategy Analyst Intern (3개월 인턴)",
-    "info": "경력무관 서울 > 강남구 모바일게임 인턴직",
-    "deadline": "상시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284835",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
-    "first_seen": "2026-09-12 04:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284853",
-    "company": "㈜시프트업",
-    "title": "[시프트업] 스텔라 블레이드 차기작 / 개발 PM",
-    "info": "경력무관 학력무관 서울 > 강남구, 서초구 콘솔게임, 멀티플랫폼게임 정규직",
-    "deadline": "채용시 19시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284853",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
-    "first_seen": "2026-09-12 04:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
     "id": "283955",
     "company": "㈜위메이드커넥트",
     "title": "[위메이드커넥트] 게임 기획자 모집(리더급)",
@@ -143,10 +16,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
+    "fetched_at": "2026-09-12 12:49",
     "first_seen": "2026-08-18 13:05",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 17,
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 18,
     "is_active": true,
     "is_new": false
   },
@@ -165,10 +38,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
+    "fetched_at": "2026-09-12 12:49",
     "first_seen": "2026-09-04 13:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 8,
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 9,
     "is_active": true,
     "is_new": false
   },
@@ -187,10 +60,137 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-12 04:30",
+    "fetched_at": "2026-09-12 12:49",
     "first_seen": "2026-09-04 13:30",
-    "last_seen": "2026-09-12 04:30",
-    "seen_count": 8,
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 9,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284854",
+    "company": "넷마블네오",
+    "title": "[넷마블네오] 개발 3본부 PM 담당 모집",
+    "info": "경력3년↑ 학력무관 서울 > 구로구 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284854",
+    "source": "게임잡 검색 - 기획",
+    "score": 55,
+    "matched_keywords": [
+      "서울",
+      "구로"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-09-12 12:49",
+    "first_seen": "2026-09-12 04:30",
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 2,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284840",
+    "company": "㈜네오위즈",
+    "title": "[ASTRA9 Studio] QA 담당자 (인턴)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 인턴직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284840",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-12 12:49",
+    "first_seen": "2026-09-12 04:30",
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 2,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284859",
+    "company": "㈜네오위즈",
+    "title": "서브컬처 게임 방송 콘텐츠 제작 송출 PD",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 정규직",
+    "deadline": "채용시 10시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284859",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-12 12:49",
+    "first_seen": "2026-09-12 04:30",
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 2,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284839",
+    "company": "㈜네오위즈",
+    "title": "서브컬처 게임 사업관리 담당자 (계약직)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 계약직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284839",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-12 12:49",
+    "first_seen": "2026-09-12 04:30",
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 2,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284835",
+    "company": "㈜베이글코드",
+    "title": "[Strategy&Finance] 전략팀 Strategy Analyst Intern (3개월 인턴)",
+    "info": "경력무관 서울 > 강남구 모바일게임 인턴직",
+    "deadline": "상시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284835",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-12 12:49",
+    "first_seen": "2026-09-12 04:30",
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 2,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "284853",
+    "company": "㈜시프트업",
+    "title": "[시프트업] 스텔라 블레이드 차기작 / 개발 PM",
+    "info": "경력무관 학력무관 서울 > 강남구, 서초구 콘솔게임, 멀티플랫폼게임 정규직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284853",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-12 12:49",
+    "first_seen": "2026-09-12 04:30",
+    "last_seen": "2026-09-12 12:49",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
