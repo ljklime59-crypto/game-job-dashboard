@@ -1,24 +1,108 @@
 [
   {
-    "id": "285190",
-    "company": "기어세컨드",
-    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "id": "285234",
+    "company": "(주)크래프톤",
+    "title": "[BATTLEGROUNDS] 유료화 기획자 (경력 무관)",
+    "info": "경력무관 학력무관 서울 > 서초구 온라인PC게임 정규직",
     "deadline": "채용시 10시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285190",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285234",
     "source": "게임잡 검색 - 기획",
-    "score": 90,
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-23 14:12",
+    "first_seen": "2026-09-23 14:12",
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "285247",
+    "company": "스타픽시스튜디오",
+    "title": "[메이플스타/MSW] 게임 기획자",
+    "info": "경력2년↑ 학력무관 경기 > 용인시 온라인PC게임, 모바일게임 정규직",
+    "deadline": "~11/23 6시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285247",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
     "matched_keywords": [
       "게임 기획",
       "게임기획",
       "기획자",
-      "서울",
-      "성동"
+      "경기"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
-    "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-09-22 14:01",
+    "fetched_at": "2026-09-23 14:12",
+    "first_seen": "2026-09-23 14:12",
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "285246",
+    "company": "스타픽시스튜디오",
+    "title": "[메이플스타/MSW] 게임 기획 Lead",
+    "info": "경력7년↑ 학력무관 경기 > 용인시 온라인PC게임, 모바일게임 정규직",
+    "deadline": "~11/23 6시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285246",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "경기"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-23 14:12",
+    "first_seen": "2026-09-23 14:12",
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "285242",
+    "company": "스타픽시스튜디오",
+    "title": "[메이플스타/MSW] 게임 서비스 운영 직군",
+    "info": "경력무관 학력무관 경기 > 용인시 온라인PC게임, 모바일게임 정규직",
+    "deadline": "~11/23 6시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285242",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-23 14:12",
+    "first_seen": "2026-09-23 14:12",
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "285238",
+    "company": "주식회사 컴투스",
+    "title": "[컴투스] 운영툴/확률형 아이템 QA 담당자 (계약직)",
+    "info": "경력무관 학력무관 서울 > 금천구 모바일게임 계약직",
+    "deadline": "상시 8시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285238",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "금천"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-23 14:12",
+    "first_seen": "2026-09-23 14:12",
+    "last_seen": "2026-09-23 14:12",
     "seen_count": 1,
     "is_active": true,
     "is_new": true
@@ -28,7 +112,7 @@
     "company": "주식회사 컴투스",
     "title": "[컴투스] 캐릭터 채팅 플랫폼 시스템 기획자 (신입/경력)",
     "info": "경력무관 학력무관 서울 > 금천구 모바일게임 정규직",
-    "deadline": "상시 6시간 전 등록",
+    "deadline": "상시 1일 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285211",
     "source": "게임잡 검색 - 기획",
     "score": 90,
@@ -40,19 +124,19 @@
       "금천"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
+    "fetched_at": "2026-09-23 14:12",
     "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 1,
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 2,
     "is_active": true,
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "285212",
     "company": "주식회사 컴투스",
     "title": "[컴투스] 캐릭터 채팅 플랫폼 컨텐츠 기획자 (신입/경력)",
     "info": "경력무관 학력무관 서울 > 금천구 모바일게임 정규직",
-    "deadline": "상시 6시간 전 등록",
+    "deadline": "상시 1일 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285212",
     "source": "게임잡 검색 - 기획",
     "score": 85,
@@ -63,98 +147,10 @@
       "금천"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
+    "fetched_at": "2026-09-23 14:12",
     "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "285196",
-    "company": "(주)웹젠",
-    "title": "[웹젠레드스타/신규 Project G] 레벨기획(경력)",
-    "info": "경력3년↑ 학력무관 경기 > 성남시 외 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 8시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285196",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "레벨 기획",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
-    "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "285197",
-    "company": "(주)웹젠",
-    "title": "[웹젠레드스타/신규 Project G] 전투 밸런스기획(경력)",
-    "info": "경력3년↑ 학력무관 경기 > 성남시 외 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 8시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285197",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "밸런스",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
-    "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "285222",
-    "company": "㈜위메이드",
-    "title": "게임 QA(계약직)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
-    "deadline": "~10/06 2시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285222",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
-    "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "284009",
-    "company": "㈜스튜디오비사이드",
-    "title": "[스타세이비어] 전투 / 캐릭터 / 몬스터 기획 담당자 모집",
-    "info": "신입 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 08/19(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284009",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "기획 담당",
-      "몬스터 기획",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
-    "first_seen": "2026-08-19 09:47",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 9,
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
@@ -173,10 +169,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
+    "fetched_at": "2026-09-23 14:12",
     "first_seen": "2026-09-03 04:19",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 11,
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 12,
     "is_active": true,
     "is_new": false
   },
@@ -197,10 +193,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
+    "fetched_at": "2026-09-23 14:12",
     "first_seen": "2026-08-31 17:02",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 9,
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 10,
     "is_active": true,
     "is_new": false
   },
@@ -219,32 +215,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
+    "fetched_at": "2026-09-23 14:12",
     "first_seen": "2026-09-03 04:19",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 12,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "284901",
-    "company": "러쉬에잇㈜",
-    "title": "[아르테일] 클래식 메이플스토리 사업 PM (경력 3년+)",
-    "info": "경력3년↑ 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 09/14(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284901",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "스토리",
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-09-22 14:01",
-    "first_seen": "2026-09-14 15:52",
-    "last_seen": "2026-09-22 14:01",
-    "seen_count": 3,
+    "last_seen": "2026-09-23 14:12",
+    "seen_count": 13,
     "is_active": true,
     "is_new": false
   },
@@ -1033,6 +1007,30 @@
     "is_new": false
   },
   {
+    "id": "285190",
+    "company": "기어세컨드",
+    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 10시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285190",
+    "source": "게임잡 검색 - 기획",
+    "score": 90,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-22 14:01",
+    "first_seen": "2026-09-22 14:01",
+    "last_seen": "2026-09-22 14:01",
+    "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "282750",
     "company": "네오플",
     "title": "[프로젝트DL] 던전(제작) 기획자 (근무지 서울지사)",
@@ -1675,6 +1673,29 @@
     "first_seen": "2026-05-19 22:55",
     "last_seen": "2026-08-13 05:01",
     "seen_count": 33,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "284009",
+    "company": "㈜스튜디오비사이드",
+    "title": "[스타세이비어] 전투 / 캐릭터 / 몬스터 기획 담당자 모집",
+    "info": "신입 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 08/19(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284009",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획 담당",
+      "몬스터 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-22 14:01",
+    "first_seen": "2026-08-19 09:47",
+    "last_seen": "2026-09-22 14:01",
+    "seen_count": 9,
     "is_active": false,
     "is_new": false
   },
@@ -4355,6 +4376,28 @@
     "is_new": false
   },
   {
+    "id": "285196",
+    "company": "(주)웹젠",
+    "title": "[웹젠레드스타/신규 Project G] 레벨기획(경력)",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 외 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 8시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285196",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "레벨 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-22 14:01",
+    "first_seen": "2026-09-22 14:01",
+    "last_seen": "2026-09-22 14:01",
+    "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "282294",
     "company": "(주)웹젠",
     "title": "[웹젠레드스타/신규 Project G] 시스템기획(경력)",
@@ -4373,6 +4416,28 @@
     "fetched_at": "2026-07-15 03:30",
     "first_seen": "2026-07-15 03:30",
     "last_seen": "2026-07-15 03:30",
+    "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "285197",
+    "company": "(주)웹젠",
+    "title": "[웹젠레드스타/신규 Project G] 전투 밸런스기획(경력)",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 외 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 8시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285197",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "밸런스",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-22 14:01",
+    "first_seen": "2026-09-22 14:01",
+    "last_seen": "2026-09-22 14:01",
     "seen_count": 1,
     "is_active": false,
     "is_new": false
@@ -6558,6 +6623,28 @@
     "first_seen": "2026-08-14 10:14",
     "last_seen": "2026-09-02 13:36",
     "seen_count": 12,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "284901",
+    "company": "러쉬에잇㈜",
+    "title": "[아르테일] 클래식 메이플스토리 사업 PM (경력 3년+)",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 09/14(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284901",
+    "source": "게임잡 검색 - 기획",
+    "score": 60,
+    "matched_keywords": [
+      "스토리",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-22 14:01",
+    "first_seen": "2026-09-14 15:52",
+    "last_seen": "2026-09-22 14:01",
+    "seen_count": 3,
     "is_active": false,
     "is_new": false
   },
@@ -9209,6 +9296,27 @@
     "first_seen": "2026-06-01 19:31",
     "last_seen": "2026-06-02 13:01",
     "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "285222",
+    "company": "㈜위메이드",
+    "title": "게임 QA(계약직)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
+    "deadline": "~10/06 2시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285222",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-09-22 14:01",
+    "first_seen": "2026-09-22 14:01",
+    "last_seen": "2026-09-22 14:01",
+    "seen_count": 1,
     "is_active": false,
     "is_new": false
   },
