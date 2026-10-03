@@ -1,26 +1,5 @@
 [
   {
-    "id": "285532",
-    "company": "㈜이스트게임즈",
-    "title": "[신입] UI 디자이너",
-    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 7시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285532",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-10-02 15:45",
-    "first_seen": "2026-10-02 15:45",
-    "last_seen": "2026-10-02 15:45",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
     "id": "282657",
     "company": "기어세컨드",
     "title": "[레츠고 레전드!] 기획자",
@@ -35,10 +14,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-10-02 15:45",
+    "fetched_at": "2026-10-03 05:13",
     "first_seen": "2026-07-14 10:55",
-    "last_seen": "2026-10-02 15:45",
-    "seen_count": 56,
+    "last_seen": "2026-10-03 05:13",
+    "seen_count": 57,
     "is_active": true,
     "is_new": false
   },
@@ -59,10 +38,10 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-10-02 15:45",
+    "fetched_at": "2026-10-03 05:13",
     "first_seen": "2026-07-30 03:24",
-    "last_seen": "2026-10-02 15:45",
-    "seen_count": 41,
+    "last_seen": "2026-10-03 05:13",
+    "seen_count": 42,
     "is_active": true,
     "is_new": false
   },
@@ -80,10 +59,10 @@
       "서울"
     ],
     "priority_company": false,
-    "fetched_at": "2026-10-02 15:45",
+    "fetched_at": "2026-10-03 05:13",
     "first_seen": "2026-09-29 05:39",
-    "last_seen": "2026-10-02 15:45",
-    "seen_count": 3,
+    "last_seen": "2026-10-03 05:13",
+    "seen_count": 4,
     "is_active": true,
     "is_new": false
   },
@@ -102,10 +81,31 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-10-02 15:45",
+    "fetched_at": "2026-10-03 05:13",
     "first_seen": "2026-09-04 13:30",
-    "last_seen": "2026-10-02 15:45",
-    "seen_count": 13,
+    "last_seen": "2026-10-03 05:13",
+    "seen_count": 14,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "285532",
+    "company": "㈜이스트게임즈",
+    "title": "[신입] UI 디자이너",
+    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 20시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285532",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-10-03 05:13",
+    "first_seen": "2026-10-02 15:45",
+    "last_seen": "2026-10-03 05:13",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
