@@ -4,7 +4,7 @@
     "company": "기어세컨드",
     "title": "[슬레이어 키우기] 기획자",
     "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 4시간 전 등록",
+    "deadline": "채용시 15시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286627",
     "source": "게임잡 검색 - 기획",
     "score": 80,
@@ -14,19 +14,66 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
+    "fetched_at": "2026-11-04 17:10",
     "first_seen": "2026-11-04 06:09",
-    "last_seen": "2026-11-04 06:09",
-    "seen_count": 1,
+    "last_seen": "2026-11-04 17:10",
+    "seen_count": 2,
     "is_active": true,
-    "is_new": true
+    "is_new": false
+  },
+  {
+    "id": "286533",
+    "company": "㈜에이버튼",
+    "title": "[Guns & Dragons] 게임 기획자 (레벨)",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 콘솔게임, 멀티플랫폼게임 정규직",
+    "deadline": "채용시 5일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286533",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-04 17:10",
+    "first_seen": "2026-10-30 15:52",
+    "last_seen": "2026-11-04 17:10",
+    "seen_count": 7,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "286617",
+    "company": "㈜에이버튼",
+    "title": "[제우스] 해외 라이브 서비스 기획자 (MMORPG)",
+    "info": "경력2년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
+    "deadline": "~02/01 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286617",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "서비스 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-04 17:10",
+    "first_seen": "2026-11-03 16:59",
+    "last_seen": "2026-11-04 17:10",
+    "seen_count": 3,
+    "is_active": true,
+    "is_new": false
   },
   {
     "id": "286624",
     "company": "스마일게이트",
     "title": "[샌드박스] 레벨기획 담당(계약직) 모집",
     "info": "경력3년↑ 학력무관 경기 > 성남시 온라인PC게임 계약직",
-    "deadline": "~11/30 4시간 전 등록",
+    "deadline": "~11/30 15시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286624",
     "source": "게임잡 검색 - 기획",
     "score": 70,
@@ -37,12 +84,12 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
+    "fetched_at": "2026-11-04 17:10",
     "first_seen": "2026-11-04 06:09",
-    "last_seen": "2026-11-04 06:09",
-    "seen_count": 1,
+    "last_seen": "2026-11-04 17:10",
+    "seen_count": 2,
     "is_active": true,
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "285863",
@@ -61,19 +108,19 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
+    "fetched_at": "2026-11-04 17:10",
     "first_seen": "2026-11-04 06:09",
-    "last_seen": "2026-11-04 06:09",
-    "seen_count": 1,
+    "last_seen": "2026-11-04 17:10",
+    "seen_count": 2,
     "is_active": true,
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "286625",
     "company": "111퍼센트㈜",
     "title": "[하이페라] 채용 연계형 인턴십 - AI 애니메이션 크리에이터",
     "info": "경력무관 학력무관 서울 > 성동구 모바일게임 인턴직",
-    "deadline": "채용시 4시간 전 등록",
+    "deadline": "채용시 15시간 전 등록",
     "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286625",
     "source": "게임잡 검색 - 기획",
     "score": 45,
@@ -82,78 +129,9 @@
       "성동"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
+    "fetched_at": "2026-11-04 17:10",
     "first_seen": "2026-11-04 06:09",
-    "last_seen": "2026-11-04 06:09",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
-    "id": "285190",
-    "company": "기어세컨드",
-    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 09/22(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285190",
-    "source": "게임잡 검색 - 기획",
-    "score": 85,
-    "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
-    "first_seen": "2026-09-22 14:01",
-    "last_seen": "2026-11-04 06:09",
-    "seen_count": 5,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "285828",
-    "company": "기어세컨드",
-    "title": "[레츠고 레전드!] 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 10/12(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285828",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
-    "first_seen": "2026-10-12 18:59",
-    "last_seen": "2026-11-04 06:09",
-    "seen_count": 5,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286617",
-    "company": "㈜에이버튼",
-    "title": "[제우스] 해외 라이브 서비스 기획자 (MMORPG)",
-    "info": "경력2년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
-    "deadline": "~02/01 18시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286617",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "기획자",
-      "서비스 기획",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-04 06:09",
-    "first_seen": "2026-11-03 16:59",
-    "last_seen": "2026-11-04 06:09",
+    "last_seen": "2026-11-04 17:10",
     "seen_count": 2,
     "is_active": true,
     "is_new": false
@@ -2124,6 +2102,30 @@
     "is_new": false
   },
   {
+    "id": "285190",
+    "company": "기어세컨드",
+    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 09/22(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285190",
+    "source": "게임잡 검색 - 기획",
+    "score": 85,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-04 06:09",
+    "first_seen": "2026-09-22 14:01",
+    "last_seen": "2026-11-04 06:09",
+    "seen_count": 5,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "285905",
     "company": "라이온하트스튜디오",
     "title": "[오딘-발할라 라이징] 밸런스 기획자(주니어) 모집",
@@ -3259,30 +3261,6 @@
     "is_new": false
   },
   {
-    "id": "286533",
-    "company": "㈜에이버튼",
-    "title": "[Guns & Dragons] 게임 기획자 (레벨)",
-    "info": "경력3년↑ 학력무관 경기 > 성남시 콘솔게임, 멀티플랫폼게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286533",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-03 06:41",
-    "first_seen": "2026-10-30 15:52",
-    "last_seen": "2026-11-03 06:41",
-    "seen_count": 6,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "283389",
     "company": "㈜에피드게임즈",
     "title": "[트릭컬 리바이브] 설정 기획자 추가 모집",
@@ -3463,6 +3441,28 @@
     "first_seen": "2026-09-07 15:01",
     "last_seen": "2026-09-07 15:01",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "285828",
+    "company": "기어세컨드",
+    "title": "[레츠고 레전드!] 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 10/12(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285828",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-04 06:09",
+    "first_seen": "2026-10-12 18:59",
+    "last_seen": "2026-11-04 06:09",
+    "seen_count": 5,
     "is_active": false,
     "is_new": false
   },
