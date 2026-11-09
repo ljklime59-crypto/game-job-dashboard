@@ -1,266 +1,66 @@
 [
   {
-    "id": "286579",
-    "company": "㈜이스트게임즈",
-    "title": "[신입] MMORPG 콘텐츠 및 시스템 기획자",
-    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 5일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286579",
+    "id": "286758",
+    "company": "㈜베이글코드",
+    "title": "[CVS] Business Analyst",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "상시 46분 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286758",
     "source": "게임잡 검색 - 기획",
-    "score": 90,
+    "score": 45,
     "matched_keywords": [
-      "기획자",
-      "시스템 기획",
-      "시스템",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-09 06:16",
+    "first_seen": "2026-11-09 06:16",
+    "last_seen": "2026-11-09 06:16",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "286573",
+    "company": "NX3GAMES",
+    "title": "[KANA][기획] 컨텐츠 기획",
+    "info": "경력3년↑ 학력무관 서울 > 서초구 모바일게임 정규직",
+    "deadline": "상시 6일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286573",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "컨텐츠 기획",
       "서울",
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-06 06:34",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 5,
+    "fetched_at": "2026-11-09 06:16",
+    "first_seen": "2026-11-02 19:26",
+    "last_seen": "2026-11-09 06:16",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
   {
-    "id": "285301",
-    "company": "㈜스튜디오비사이드",
-    "title": "[프로젝트 I] 모바일 게임 기획자",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 09/28(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285301",
+    "id": "285420",
+    "company": "NX3GAMES",
+    "title": "[KANA][기획] 전투 기획",
+    "info": "경력3년↑ 학력무관 서울 > 서초구 모바일게임 정규직",
+    "deadline": "채용시 09/30(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285420",
     "source": "게임잡 검색 - 기획",
-    "score": 85,
+    "score": 60,
     "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-09-28 05:18",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 20,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "284007",
-    "company": "㈜스튜디오비사이드",
-    "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 08/19(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284007",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "스토리",
-      "시나리오",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-08-19 09:47",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 27,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "285649",
-    "company": "㈜스튜디오비사이드",
-    "title": "[프로젝트 A] 컨텐츠 및 전투 기획자",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 10/08(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285649",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "기획자",
       "전투 기획",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-10-12 05:50",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 18,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "285129",
-    "company": "㈜이스트게임즈",
-    "title": "[경력] MMORPG 콘텐츠 및 시스템 기획자",
-    "info": "경력1년↑ 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 09/21(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285129",
-    "source": "게임잡 검색 - 기획",
-    "score": 70,
-    "matched_keywords": [
-      "기획자",
-      "시스템 기획",
-      "시스템",
       "서울",
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-09-29 05:39",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 7,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286736",
-    "company": "(주)크래프톤",
-    "title": "[AI Frontier Div.] AI Business Development (10년 이상)",
-    "info": "경력무관 학력무관 서울 > 강남구 계약직",
-    "deadline": "채용시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286736",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-06 16:43",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 4,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286735",
-    "company": "(주)크래프톤",
-    "title": "[HR Div.] 인재개발(HRD) 기획·운영 담당자 (2년 이상 / 계약직)",
-    "info": "경력무관 학력무관 서울 > 강남구 계약직",
-    "deadline": "채용시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286735",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-06 06:34",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 5,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286742",
-    "company": "(주)크래프톤",
-    "title": "[Legal & Corporate Affairs Div.] Investment Part-Legal Counsel (4-15년)",
-    "info": "경력무관 학력무관 서울 > 강남구 계약직",
-    "deadline": "채용시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286742",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-06 16:43",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 4,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286667",
-    "company": "NC",
-    "title": "[NC][단기계약직][AION2] 게임 현지화 영어 번역 / 검수 (English Linguist & LQA)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
-    "deadline": "~11/30 2일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286667",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-05 17:20",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 6,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286658",
-    "company": "NC",
-    "title": "[NC][단기계약직][AION2] 게임 현지화 포르투갈어(브라질) 번역 / 검수 (Brazilian Portuguese Translator)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
-    "deadline": "~11/30 2일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286658",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-05 17:20",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 6,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286731",
-    "company": "㈜네오위즈",
-    "title": "[NOUGH Studio] P의 거짓 차기작 이펙터(인턴)",
-    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 인턴직",
-    "deadline": "상시 2일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286731",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-06 06:34",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 5,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286683",
-    "company": "㈜스튜디오비사이드",
-    "title": "[프로젝트A] UI 디자이너 모집",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 2일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286683",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-08 05:55",
-    "first_seen": "2026-11-05 06:37",
-    "last_seen": "2026-11-08 05:55",
-    "seen_count": 5,
+    "fetched_at": "2026-11-09 06:16",
+    "first_seen": "2026-09-30 05:27",
+    "last_seen": "2026-11-09 06:16",
+    "seen_count": 14,
     "is_active": true,
     "is_new": false
   },
@@ -1350,6 +1150,30 @@
     "is_new": false
   },
   {
+    "id": "286579",
+    "company": "㈜이스트게임즈",
+    "title": "[신입] MMORPG 콘텐츠 및 시스템 기획자",
+    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 5일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286579",
+    "source": "게임잡 검색 - 기획",
+    "score": 90,
+    "matched_keywords": [
+      "기획자",
+      "시스템 기획",
+      "시스템",
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-06 06:34",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 5,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "286701",
     "company": "㈜크로노스튜디오",
     "title": "[Chrono Odyssey] 시스템 기획자 모집",
@@ -1806,6 +1630,30 @@
     "first_seen": "2026-05-19 22:55",
     "last_seen": "2026-07-13 03:56",
     "seen_count": 24,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "285301",
+    "company": "㈜스튜디오비사이드",
+    "title": "[프로젝트 I] 모바일 게임 기획자",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 09/28(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285301",
+    "source": "게임잡 검색 - 기획",
+    "score": 85,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-09-28 05:18",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 20,
     "is_active": false,
     "is_new": false
   },
@@ -2461,6 +2309,29 @@
     "is_new": false
   },
   {
+    "id": "284007",
+    "company": "㈜스튜디오비사이드",
+    "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 08/19(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284007",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "스토리",
+      "시나리오",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-08-19 09:47",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 27,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "280240",
     "company": "㈜스튜디오비사이드",
     "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
@@ -2526,6 +2397,29 @@
     "first_seen": "2026-05-19 22:55",
     "last_seen": "2026-07-13 03:56",
     "seen_count": 24,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "285649",
+    "company": "㈜스튜디오비사이드",
+    "title": "[프로젝트 A] 컨텐츠 및 전투 기획자",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 10/08(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285649",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "전투 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-10-12 05:50",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 18,
     "is_active": false,
     "is_new": false
   },
@@ -4740,6 +4634,30 @@
     "is_new": false
   },
   {
+    "id": "285129",
+    "company": "㈜이스트게임즈",
+    "title": "[경력] MMORPG 콘텐츠 및 시스템 기획자",
+    "info": "경력1년↑ 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
+    "deadline": "채용시 09/21(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285129",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "시스템 기획",
+      "시스템",
+      "서울",
+      "서초"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-09-29 05:39",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 7,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "283665",
     "company": "㈜이스트게임즈",
     "title": "[경력] MMORPG 콘텐츠 및 시스템 기획자",
@@ -6673,28 +6591,6 @@
     "is_new": false
   },
   {
-    "id": "286573",
-    "company": "NX3GAMES",
-    "title": "[KANA][기획] 컨텐츠 기획",
-    "info": "경력3년↑ 학력무관 서울 > 서초구 모바일게임 정규직",
-    "deadline": "상시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286573",
-    "source": "게임잡 검색 - 기획",
-    "score": 65,
-    "matched_keywords": [
-      "컨텐츠 기획",
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-03 16:59",
-    "first_seen": "2026-11-02 19:26",
-    "last_seen": "2026-11-03 16:59",
-    "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "286470",
     "company": "NX3GAMES",
     "title": "[KANA][기획] 컨텐츠 기획",
@@ -8527,28 +8423,6 @@
     "is_new": false
   },
   {
-    "id": "285420",
-    "company": "NX3GAMES",
-    "title": "[KANA][기획] 전투 기획",
-    "info": "경력3년↑ 학력무관 서울 > 서초구 모바일게임 정규직",
-    "deadline": "채용시 09/30(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285420",
-    "source": "게임잡 검색 - 기획",
-    "score": 60,
-    "matched_keywords": [
-      "전투 기획",
-      "서울",
-      "서초"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-02 19:26",
-    "first_seen": "2026-09-30 05:27",
-    "last_seen": "2026-11-02 19:26",
-    "seen_count": 13,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "279914",
     "company": "㈜기어세컨드",
     "title": "[레츠고 레전드!] 기획자",
@@ -10010,6 +9884,27 @@
     "is_new": false
   },
   {
+    "id": "286736",
+    "company": "(주)크래프톤",
+    "title": "[AI Frontier Div.] AI Business Development (10년 이상)",
+    "info": "경력무관 학력무관 서울 > 강남구 계약직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286736",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-06 16:43",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 4,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "286596",
     "company": "(주)크래프톤",
     "title": "[AI Frontier Div.] AI Inference Platform & Operations Lead (10년 이상)",
@@ -10073,6 +9968,27 @@
     "is_new": false
   },
   {
+    "id": "286735",
+    "company": "(주)크래프톤",
+    "title": "[HR Div.] 인재개발(HRD) 기획·운영 담당자 (2년 이상 / 계약직)",
+    "info": "경력무관 학력무관 서울 > 강남구 계약직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286735",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-06 06:34",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 5,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "286524",
     "company": "(주)크래프톤",
     "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
@@ -10110,6 +10026,27 @@
     "first_seen": "2026-05-26 19:37",
     "last_seen": "2026-05-26 19:37",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "286742",
+    "company": "(주)크래프톤",
+    "title": "[Legal & Corporate Affairs Div.] Investment Part-Legal Counsel (4-15년)",
+    "info": "경력무관 학력무관 서울 > 강남구 계약직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286742",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-06 16:43",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 4,
     "is_active": false,
     "is_new": false
   },
@@ -10555,6 +10492,27 @@
     "is_new": false
   },
   {
+    "id": "286667",
+    "company": "NC",
+    "title": "[NC][단기계약직][AION2] 게임 현지화 영어 번역 / 검수 (English Linguist & LQA)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
+    "deadline": "~11/30 2일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286667",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-05 17:20",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 6,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "281760",
     "company": "NC",
     "title": "[NC][단기계약직][AION2] 게임 현지화 영어 번역 / 검수 (English Linguist & LQA)",
@@ -10572,6 +10530,27 @@
     "first_seen": "2026-06-22 14:49",
     "last_seen": "2026-06-22 14:49",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "286658",
+    "company": "NC",
+    "title": "[NC][단기계약직][AION2] 게임 현지화 포르투갈어(브라질) 번역 / 검수 (Brazilian Portuguese Translator)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 모바일게임 계약직",
+    "deadline": "~11/30 2일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286658",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-05 17:20",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 6,
     "is_active": false,
     "is_new": false
   },
@@ -11186,6 +11165,27 @@
     "is_new": false
   },
   {
+    "id": "286731",
+    "company": "㈜네오위즈",
+    "title": "[NOUGH Studio] P의 거짓 차기작 이펙터(인턴)",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임, 콘솔게임 인턴직",
+    "deadline": "상시 2일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286731",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-06 06:34",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 5,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "283330",
     "company": "㈜네오위즈",
     "title": "[Onetake Studio] 고양이와 스프 캐릭터 및 세계관 설정 기획자",
@@ -11650,6 +11650,27 @@
     "first_seen": "2026-07-29 14:29",
     "last_seen": "2026-08-03 12:34",
     "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "286683",
+    "company": "㈜스튜디오비사이드",
+    "title": "[프로젝트A] UI 디자이너 모집",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 2일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286683",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-08 05:55",
+    "first_seen": "2026-11-05 06:37",
+    "last_seen": "2026-11-08 05:55",
+    "seen_count": 5,
     "is_active": false,
     "is_new": false
   },
