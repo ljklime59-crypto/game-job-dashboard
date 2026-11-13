@@ -1,13 +1,13 @@
 [
   {
-    "id": "285301",
-    "company": "㈜스튜디오비사이드",
-    "title": "[프로젝트 I] 모바일 게임 기획자",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 09/28(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285301",
+    "id": "286962",
+    "company": "㈜에이버튼",
+    "title": "[Guns & Dragons] 게임 기획자 (레벨)",
+    "info": "경력3년↑ 학력무관 경기 > 성남시 콘솔게임, 멀티플랫폼게임 정규직",
+    "deadline": "채용시 57분 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286962",
     "source": "게임잡 검색 - 기획",
-    "score": 85,
+    "score": 75,
     "matched_keywords": [
       "게임 기획",
       "게임기획",
@@ -16,12 +16,146 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-09-28 05:18",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 23,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
     "is_active": true,
-    "is_new": false
+    "is_new": true
+  },
+  {
+    "id": "286912",
+    "company": "(주)스마일게이트 슈퍼크리에이티브 지점",
+    "title": "[카오스 제로 나이트메어] 전투 기획자",
+    "info": "경력8년↑ 학력무관 경기 > 성남시 모바일게임 정규직",
+    "deadline": "채용시 4시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286912",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "전투 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "286971",
+    "company": "㈜에이버튼",
+    "title": "[제우스] 라이브콘텐츠 기획자",
+    "info": "경력2년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
+    "deadline": "채용시 51분 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286971",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "콘텐츠 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "286973",
+    "company": "㈜에이버튼",
+    "title": "[제우스] 해외 라이브 서비스 기획자 (MMORPG)",
+    "info": "경력2년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
+    "deadline": "채용시 50분 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286973",
+    "source": "게임잡 검색 - 기획",
+    "score": 70,
+    "matched_keywords": [
+      "기획자",
+      "서비스 기획",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "286953",
+    "company": "㈜에이버튼",
+    "title": "[Project EA] 레벨 디자이너 (기획)",
+    "info": "경력5년↑ 학력무관 경기 > 성남시 콘솔게임, 멀티플랫폼게임 정규직",
+    "deadline": "채용시 1시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286953",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "레벨 디자이너",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "286972",
+    "company": "㈜에이버튼",
+    "title": "[제우스] 시스템 디자이너",
+    "info": "경력5년↑ 학력무관 경기 > 성남시 온라인PC게임 정규직",
+    "deadline": "채용시 51분 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286972",
+    "source": "게임잡 검색 - 기획",
+    "score": 65,
+    "matched_keywords": [
+      "시스템",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
+  },
+  {
+    "id": "286970",
+    "company": "㈜에이버튼",
+    "title": "[제우스] (계약직) 주니어 사운드 디자이너",
+    "info": "경력무관 학력무관 경기 > 성남시 온라인PC게임 계약직",
+    "deadline": "채용시 52분 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286970",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-13 06:35",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": true
   },
   {
     "id": "286271",
@@ -40,33 +174,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
+    "fetched_at": "2026-11-13 06:35",
     "first_seen": "2026-10-22 04:37",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 10,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "284007",
-    "company": "㈜스튜디오비사이드",
-    "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
-    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
-    "deadline": "채용시 08/19(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284007",
-    "source": "게임잡 검색 - 기획",
-    "score": 80,
-    "matched_keywords": [
-      "스토리",
-      "시나리오",
-      "경기",
-      "성남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-08-19 09:47",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 30,
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 11,
     "is_active": true,
     "is_new": false
   },
@@ -86,32 +197,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
+    "fetched_at": "2026-11-13 06:35",
     "first_seen": "2026-10-21 04:40",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 11,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286627",
-    "company": "기어세컨드",
-    "title": "[슬레이어 키우기] 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 11/04(수) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286627",
-    "source": "게임잡 검색 - 기획",
-    "score": 75,
-    "matched_keywords": [
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-11-04 06:09",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 5,
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 12,
     "is_active": true,
     "is_new": false
   },
@@ -130,41 +219,20 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
+    "fetched_at": "2026-11-13 06:35",
     "first_seen": "2026-08-24 13:10",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 38,
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 39,
     "is_active": true,
     "is_new": false
   },
   {
-    "id": "284629",
-    "company": "넷마블넥서스",
-    "title": "’샹그릴라프론티어’ PM 모집",
-    "info": "경력3년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
-    "deadline": "채용시 09/03(목) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284629",
-    "source": "게임잡 검색 - 기획",
-    "score": 50,
-    "matched_keywords": [
-      "서울",
-      "구로"
-    ],
-    "priority_company": true,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-09-03 13:33",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 3,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286781",
-    "company": "㈜슈퍼캣",
-    "title": "[아이스캣] 경영지원 담당자 모집 (신입/경력)",
+    "id": "286758",
+    "company": "㈜베이글코드",
+    "title": "[CVS] Business Analyst",
     "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286781",
+    "deadline": "채용시 4일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286758",
     "source": "게임잡 검색 - 기획",
     "score": 45,
     "matched_keywords": [
@@ -172,51 +240,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-11-09 19:45",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 2,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286885",
-    "company": "그라비티",
-    "title": "[그라비티] 라그나로크 온라인 이펙터 경력 채용",
-    "info": "경력무관 학력무관 서울 > 마포구 온라인PC게임 정규직",
-    "deadline": "~01/12 11시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286885",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-11-12 07:04",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 2,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "286830",
-    "company": "기어세컨드",
-    "title": "[기어세컨드] 데이터 엔지니어 DE",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 1일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286830",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-12 17:32",
-    "first_seen": "2026-11-12 07:04",
-    "last_seen": "2026-11-12 17:32",
-    "seen_count": 2,
+    "fetched_at": "2026-11-13 06:35",
+    "first_seen": "2026-11-09 06:16",
+    "last_seen": "2026-11-13 06:35",
+    "seen_count": 3,
     "is_active": true,
     "is_new": false
   },
@@ -1765,6 +1792,30 @@
     "is_new": false
   },
   {
+    "id": "285301",
+    "company": "㈜스튜디오비사이드",
+    "title": "[프로젝트 I] 모바일 게임 기획자",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 09/28(월) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285301",
+    "source": "게임잡 검색 - 기획",
+    "score": 85,
+    "matched_keywords": [
+      "게임 기획",
+      "게임기획",
+      "기획자",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-09-28 05:18",
+    "last_seen": "2026-11-12 17:32",
+    "seen_count": 23,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "282468",
     "company": "㈜시프트업",
     "title": "[시프트업] 승리의 여신 니케 / 전투 기획 / 전투 밸런스 기획",
@@ -2434,6 +2485,29 @@
     "first_seen": "2026-05-19 22:55",
     "last_seen": "2026-05-23 15:50",
     "seen_count": 9,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "284007",
+    "company": "㈜스튜디오비사이드",
+    "title": "[스타세이비어] 스토리, 시나리오 제작 / 컨셉 설정",
+    "info": "경력무관 학력무관 경기 > 성남시 모바일게임 정규직, 계약직",
+    "deadline": "채용시 08/19(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284007",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "스토리",
+      "시나리오",
+      "경기",
+      "성남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-08-19 09:47",
+    "last_seen": "2026-11-12 17:32",
+    "seen_count": 30,
     "is_active": false,
     "is_new": false
   },
@@ -3661,6 +3735,28 @@
     "first_seen": "2026-07-14 10:55",
     "last_seen": "2026-10-07 16:24",
     "seen_count": 64,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "286627",
+    "company": "기어세컨드",
+    "title": "[슬레이어 키우기] 기획자",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 11/04(수) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286627",
+    "source": "게임잡 검색 - 기획",
+    "score": 75,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-11-04 06:09",
+    "last_seen": "2026-11-12 17:32",
+    "seen_count": 5,
     "is_active": false,
     "is_new": false
   },
@@ -9873,6 +9969,27 @@
     "is_new": false
   },
   {
+    "id": "284629",
+    "company": "넷마블넥서스",
+    "title": "’샹그릴라프론티어’ PM 모집",
+    "info": "경력3년↑ 학력무관 서울 > 구로구 모바일게임 정규직",
+    "deadline": "채용시 09/03(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=284629",
+    "source": "게임잡 검색 - 기획",
+    "score": 50,
+    "matched_keywords": [
+      "서울",
+      "구로"
+    ],
+    "priority_company": true,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-09-03 13:33",
+    "last_seen": "2026-11-12 17:32",
+    "seen_count": 3,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "281823",
     "company": "스마일게이트",
     "title": "[LOST ARK Mobile] 레벨기획 담당 (계약직)",
@@ -11751,27 +11868,6 @@
     "is_new": false
   },
   {
-    "id": "286758",
-    "company": "㈜베이글코드",
-    "title": "[CVS] Business Analyst",
-    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
-    "deadline": "채용시 14시간 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286758",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "강남"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-09 19:45",
-    "first_seen": "2026-11-09 06:16",
-    "last_seen": "2026-11-09 19:45",
-    "seen_count": 2,
-    "is_active": false,
-    "is_new": false
-  },
-  {
     "id": "282839",
     "company": "㈜베이글코드",
     "title": "[CVS] Product Owner",
@@ -11937,6 +12033,27 @@
     "first_seen": "2026-10-15 14:08",
     "last_seen": "2026-10-15 14:08",
     "seen_count": 1,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "286781",
+    "company": "㈜슈퍼캣",
+    "title": "[아이스캣] 경영지원 담당자 모집 (신입/경력)",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286781",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-11-09 19:45",
+    "last_seen": "2026-11-12 17:32",
+    "seen_count": 2,
     "is_active": false,
     "is_new": false
   },
@@ -13552,6 +13669,26 @@
     "is_new": false
   },
   {
+    "id": "286885",
+    "company": "그라비티",
+    "title": "[그라비티] 라그나로크 온라인 이펙터 경력 채용",
+    "info": "경력무관 학력무관 서울 > 마포구 온라인PC게임 정규직",
+    "deadline": "~01/12 11시간 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286885",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-11-12 07:04",
+    "last_seen": "2026-11-12 17:32",
+    "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
     "id": "285595",
     "company": "그라비티",
     "title": "[그라비티] 중화권 게임사업PM 채용",
@@ -13609,6 +13746,27 @@
     "fetched_at": "2026-10-28 15:58",
     "first_seen": "2026-10-27 04:57",
     "last_seen": "2026-10-28 15:58",
+    "seen_count": 2,
+    "is_active": false,
+    "is_new": false
+  },
+  {
+    "id": "286830",
+    "company": "기어세컨드",
+    "title": "[기어세컨드] 데이터 엔지니어 DE",
+    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
+    "deadline": "채용시 1일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286830",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "성동"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-12 17:32",
+    "first_seen": "2026-11-12 07:04",
+    "last_seen": "2026-11-12 17:32",
     "seen_count": 2,
     "is_active": false,
     "is_new": false
