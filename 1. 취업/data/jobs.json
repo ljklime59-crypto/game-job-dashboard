@@ -16,7 +16,7 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -39,7 +39,7 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -63,7 +63,7 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -71,12 +71,12 @@
     "is_new": false
   },
   {
-    "id": "286579",
-    "company": "㈜이스트게임즈",
-    "title": "[신입] MMORPG 콘텐츠 및 시스템 기획자",
-    "info": "신입 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 11/03(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286579",
+    "id": "286271",
+    "company": "에이블게임즈",
+    "title": "[크레센트] 시스템 기획자 모집 (경력 3년 이하)",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "상시 10/22(목) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286271",
     "source": "게임잡 검색 - 기획",
     "score": 85,
     "matched_keywords": [
@@ -84,34 +84,10 @@
       "시스템 기획",
       "시스템",
       "서울",
-      "서초"
+      "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
-    "first_seen": "",
-    "last_seen": "",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": false
-  },
-  {
-    "id": "285190",
-    "company": "기어세컨드",
-    "title": "[Project TTT] 서브컬쳐 캐주얼 게임 기획자",
-    "info": "경력무관 학력무관 서울 > 성동구 모바일게임 정규직",
-    "deadline": "채용시 09/22(화) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285190",
-    "source": "게임잡 검색 - 기획",
-    "score": 85,
-    "matched_keywords": [
-      "게임 기획",
-      "게임기획",
-      "기획자",
-      "서울",
-      "성동"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -134,7 +110,7 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -158,7 +134,52 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
+    "first_seen": "",
+    "last_seen": "",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "286141",
+    "company": "에이블게임즈",
+    "title": "[달토끼키우기] 전투 기획자 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "상시 10/20(화) 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=286141",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "전투 기획",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-26 18:58",
+    "first_seen": "",
+    "last_seen": "",
+    "seen_count": 1,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "287244",
+    "company": "에이블게임즈",
+    "title": "[메이플키우기] 기획자 모집",
+    "info": "경력무관 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=287244",
+    "source": "게임잡 검색 - 기획",
+    "score": 80,
+    "matched_keywords": [
+      "기획자",
+      "서울",
+      "강남"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -181,7 +202,7 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
@@ -189,23 +210,22 @@
     "is_new": false
   },
   {
-    "id": "285129",
-    "company": "㈜이스트게임즈",
-    "title": "[경력] MMORPG 콘텐츠 및 시스템 기획자",
-    "info": "경력1년↑ 학력무관 서울 > 서초구 온라인PC게임, 모바일게임 정규직",
-    "deadline": "채용시 09/21(월) 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=285129",
+    "id": "287242",
+    "company": "에이블게임즈",
+    "title": "[크레센트] 레벨 기획자 모집 (경력 3년 이상)",
+    "info": "경력3년↑ 학력무관 서울 > 강남구 모바일게임 정규직",
+    "deadline": "채용시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=287242",
     "source": "게임잡 검색 - 기획",
     "score": 70,
     "matched_keywords": [
       "기획자",
-      "시스템 기획",
-      "시스템",
+      "레벨 기획",
       "서울",
-      "서초"
+      "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-26 08:08",
+    "fetched_at": "2026-11-26 18:58",
     "first_seen": "",
     "last_seen": "",
     "seen_count": 1,
