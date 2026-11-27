@@ -1,26 +1,5 @@
 [
   {
-    "id": "287295",
-    "company": "주식회사 컴투스",
-    "title": "[컴투스][서머너즈워 천공의아레나] 사업개발 및 법인관리 (신입/3년 이상))",
-    "info": "경력무관 학력무관 서울 > 금천구 모바일게임 정규직",
-    "deadline": "상시 3일 전 등록",
-    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=287295",
-    "source": "게임잡 검색 - 기획",
-    "score": 45,
-    "matched_keywords": [
-      "서울",
-      "금천"
-    ],
-    "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
-    "first_seen": "2026-11-27 08:19",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 1,
-    "is_active": true,
-    "is_new": true
-  },
-  {
     "id": "287187",
     "company": "㈜스튜디오비사이드",
     "title": "[스타세이비어] 시스템 / 레벨 디자인 기획 담당자 모집",
@@ -37,10 +16,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-11-20 07:06",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 10,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 11,
     "is_active": true,
     "is_new": false
   },
@@ -60,10 +39,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-11-25 08:23",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 4,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 5,
     "is_active": true,
     "is_new": false
   },
@@ -84,10 +63,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-09-28 05:18",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 34,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 35,
     "is_active": true,
     "is_new": false
   },
@@ -108,10 +87,10 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-11-06 06:34",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 11,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 12,
     "is_active": true,
     "is_new": false
   },
@@ -132,10 +111,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-10-22 04:37",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 25,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 26,
     "is_active": true,
     "is_new": false
   },
@@ -155,10 +134,10 @@
       "성남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-10-12 05:50",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 31,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 32,
     "is_active": true,
     "is_new": false
   },
@@ -178,10 +157,10 @@
       "강남"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-10-21 04:40",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 26,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 27,
     "is_active": true,
     "is_new": false
   },
@@ -202,10 +181,31 @@
       "서초"
     ],
     "priority_company": false,
-    "fetched_at": "2026-11-27 08:19",
+    "fetched_at": "2026-11-27 18:54",
     "first_seen": "2026-09-29 05:39",
-    "last_seen": "2026-11-27 08:19",
-    "seen_count": 12,
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 13,
+    "is_active": true,
+    "is_new": false
+  },
+  {
+    "id": "287295",
+    "company": "주식회사 컴투스",
+    "title": "[컴투스][서머너즈워 천공의아레나] 사업개발 및 법인관리 (신입/3년 이상))",
+    "info": "경력무관 학력무관 서울 > 금천구 모바일게임 정규직",
+    "deadline": "상시 3일 전 등록",
+    "url": "https://gamejob.co.kr/Recruit/GI_Read/View?GI_No=287295",
+    "source": "게임잡 검색 - 기획",
+    "score": 45,
+    "matched_keywords": [
+      "서울",
+      "금천"
+    ],
+    "priority_company": false,
+    "fetched_at": "2026-11-27 18:54",
+    "first_seen": "2026-11-27 08:19",
+    "last_seen": "2026-11-27 18:54",
+    "seen_count": 2,
     "is_active": true,
     "is_new": false
   },
